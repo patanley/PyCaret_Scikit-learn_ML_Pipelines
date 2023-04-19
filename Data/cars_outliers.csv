@@ -1,0 +1,638 @@
+ID,Name,Price,Brand,Model,Variant,Series,Year,Kilometers,Type,Gearbox,Fuel,Status,CC,Color,Seating Capacity
+12190570,2021 Mercedes-Benz V 250 D Avantgarde MWB 447 MY21,117990,Mercedes-Benz,V,250 D Avantgarde MWB,447 MY21,2021,19,Wagon,Automatic,Diesel, New In Stock,2143,Black,7
+12576018,2020 Toyota Landcruiser LC200 VX (4X4) VDJ200R,119985,Toyota,Landcruiser,LC200 VX (4X4),VDJ200R,2020,50943,Wagon,Automatic,Diesel, Used,4461,White,7
+12597077,2021 Toyota Landcruiser 70 Series GXL VDJ79R,169990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2021,1008,Double Cab Chassis,Manual,Diesel, Used,4461,Blue,5
+12637483,2010 Porsche Boxster Spyder 987 MY11,129900,Porsche,Boxster,Spyder,987 MY11,2010,66147,Roadster,Automatic,Premium Unleaded Petrol, Used,3436,Black,2
+12688939,2020 Ram 1500 Warlock (black/Grey/HYD Blue) MY20,110990,Ram,1500,Warlock (black/Grey/HYD Blue),MY20,2020,39969,Crew Cab Utility,Automatic,Unleaded Petrol, Used,5654,Grey,5
+12689144,2018 Toyota Landcruiser Sahara (4X4) VDJ200R MY16,122900,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY16,2018,149000,Wagon,Automatic,Diesel, Used,4461,White,7
+12689842,2018 Lexus LS500 Sports Luxury Vxfa50R,124999,Lexus,LS500,Sports Luxury,Vxfa50R,2018,13400,Sedan,Automatic,Premium Unleaded Petrol, Used,3444,Titanium,5
+12689942,2021 Land Rover Range Rover Evoque P250 R-Dynamic SE (184KW) L551 MY21,98500,Land Rover,Range Rover Evoque,P250 R-Dynamic SE (184KW),L551 MY21,2021,11400,Wagon,Automatic,Premium Unleaded Petrol, Used,1997,White,5
+12690069,2012 Jaguar XK 5.0 V8 X150 MY10,94800,Jaguar,XK,5.0 V8,X150 MY10,2012,34000,Coupe,Automatic,Premium Unleaded Petrol, Used,5000,Blue,4
+12690111,2021 Jaguar F-Pace SVR (405KW) X761 MY21.25,171888,Jaguar,F-Pace,SVR (405KW),X761 MY21.25,2021,23210,Wagon,Automatic,Premium Unleaded Petrol, Used,5000,Black,5
+12690565,2015 Toyota Landcruiser Sahara (4X4) VDJ200R MY13,94987,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY13,2015,129780,Wagon,Automatic,Diesel, Used,4461,White,7
+12690990,2019 Mercedes-Benz CLA45 S 4Matic+ C118 MY20.5,110900,Mercedes-Benz,CLA45,S 4Matic+,C118 MY20.5,2019,34582,Coupe,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12691319,2016 Land Rover Range Rover Sport 5.0 V8 SC A/B Dynamic LW MY16.5,136000,Land Rover,Range Rover Sport,5.0 V8 SC A/B Dynamic,LW MY16.5,2016,76792,Wagon,Automatic,Premium Unleaded Petrol, Used,4999,White,5
+12691352,2021 Toyota Landcruiser LC300 GXL (4X4) FJA300R,133901,Toyota,Landcruiser,LC300 GXL (4X4),FJA300R,2021,10100,Wagon,Automatic,Diesel, Used,3346,Silver,7
+12691353,2018 Toyota Landcruiser GXL (4X4) VDJ79R,114888,Toyota,Landcruiser,GXL (4X4),VDJ79R,2018,69193,Double Cab Chassis,Manual,Diesel, Used,4461,Grey,5
+12691371,2016 HSV Clubsport R8 LSA GEN F2,131888,HSV,Clubsport,R8 LSA,GEN F2,2016,6766,Sedan,Automatic,Premium Unleaded Petrol, Used,6200,Red,5
+12691497,2021 Audi A6 55 Tfsi Quattro S Line Mhev 4A MY22,125509,Audi,A6,55 Tfsi Quattro S Line Mhev,4A MY22,2021,1752,Sedan,Automatic,Premium Unleaded/Electric, Used,2995,Black,5
+12692223,2019 Ram 1500 Laramie (4X4) FD3.2 MY19,98990,Ram,1500,Laramie (4X4) FD3.2,MY19,2019,122346,Crew Cab Utility,Automatic,Unleaded Petrol, Used,5654,Grey,5
+12692944,2021 Volvo XC90 B6 Inscription Mhev 256 MY22,113990,Volvo,XC90,B6 Inscription Mhev,256 MY22,2021,6070,Wagon,Automatic,Premium Unleaded/Electric, Demo,1969,Grey,7
+12693017,2021 BMW M340I Xdrive G20,97990,BMW,M340I,Xdrive,G20,2021,7365,Sedan,Automatic,Premium Unleaded Petrol, Used,2998,White,5
+12693099,2021 Audi A6 45 Tfsi Quattro S Line Mhev 4A MY22,104309,Audi,A6,45 Tfsi Quattro S Line Mhev,4A MY22,2021,6700,Sedan,Automatic,Premium Unleaded/Electric, Demo,1984,White,5
+12693310,2020 Audi Q7 45 TDI Quattro (hybrid) 4M MY20,99900,Audi,Q7,45 TDI Quattro (hybrid),4M MY20,2020,23393,Wagon,Automatic,Diesel/Electric, Used,2967,White,7
+12693311,2019 BMW X5 Xdrive 40I G05,106888,BMW,X5,Xdrive 40I,G05,2019,57076,Wagon,Automatic,Premium Unleaded Petrol, Used,2998,White,5
+12693313,2022 Audi RS Q3 2.5 Tfsi Quattro F3 MY22A,129950,Audi,RS Q3,2.5 Tfsi Quattro,F3 MY22A,2022,288,Sportback,Automatic,Premium Unleaded Petrol, Used,2480,Grey,5
+12693663,2022 Volkswagen Touareg 210TDI Elegance CR MY22,118990,Volkswagen,Touareg,210TDI Elegance,CR MY22,2022,3508,Wagon,Automatic,Diesel, Demo,2967,White,5
+12693785,2014 Aston Martin Rapide S MY13,174490,Aston Martin,Rapide,S,MY13,2014,34848,Coupe,Automatic,Premium Unleaded Petrol, Used,5935,Grey,4
+12693887,2022 Audi RS Q3 2.5 Tfsi Quattro F3 MY22A,129950,Audi,RS Q3,2.5 Tfsi Quattro,F3 MY22A,2022,104,Sportback,Automatic,Premium Unleaded Petrol, Used,2480,Black,5
+12693907,2019 Porsche Macan S 95B MY19,109990,Porsche,Macan,S,95B MY19,2019,29417,Wagon,Automatic,Premium Unleaded Petrol, Used,2995,White,5
+12693916,2020 Audi RS Q3 2.5 Tfsi Quattro F3 MY21,99990,Audi,RS Q3,2.5 Tfsi Quattro,F3 MY21,2020,21000,Sportback,Automatic,Premium Unleaded Petrol, Used,2480,Blue,5
+12693917,2019 Land Rover Range Rover Sport SDV8 HSE Dynamic (250KW) L494 MY20,154990,Land Rover,Range Rover Sport,SDV8 HSE Dynamic (250KW),L494 MY20,2019,39221,Wagon,Automatic,Diesel, Used,4367,Silver,5
+12693928,2020 Audi RS Q3 2.5 Tfsi Quattro F3 MY20,104990,Audi,RS Q3,2.5 Tfsi Quattro,F3 MY20,2020,9845,Sportback,Automatic,Premium Unleaded Petrol, Used,2480,Black,5
+12694525,2022 Toyota Landcruiser 70 Series GXL VDJ79R,124990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,82,Double Cab Chassis,Manual,Diesel, Used,4461,Brown,5
+12694622,2021 Ram 1500 Express Rambox DS MY21,109990,Ram,1500,Express Rambox,DS MY21,2021,40610,Crew Cab Utility,Automatic,Premium Unleaded Petrol, Used,5654,White,5
+12694667,2019 Mercedes-Benz GLE300 D 4Matic V167 MY19,101800,Mercedes-Benz,GLE300,D 4Matic,V167 MY19,2019,33385,Wagon,Automatic,Diesel, Used,1950,Grey,5
+12694680,2021 Lexus RX350L Sports Luxury (awd) GGL26R,111990,Lexus,RX350L,Sports Luxury (awd),GGL26R,2021,8222,Wagon,Automatic,Premium Unleaded Petrol, Used,3456,Silver,7
+12695003,2016 Toyota Landcruiser Sahara (4X4) VDJ200R MY16,119990,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY16,2016,146587,Wagon,Automatic,Diesel, Used,4461,White,7
+12695316,2020 Land Rover Defender 110 D240 First Edition (177KW) L663 MY20,135990,Land Rover,Defender,110 D240 First Edition (177KW),L663 MY20,2020,33241,Wagon,Automatic,Diesel, Used,1999,Brown,5
+12695520,2022 Audi A7 55 Tfsi Quattro Mhev 4K MY22,147880,Audi,A7,55 Tfsi Quattro Mhev,4K MY22,2022,1022,Sportback,Automatic,Premium Unleaded/Electric, Demo,2995,Black,5
+12695658,2018 Mercedes-Benz E63 4Matic+ 213 MY18,169900,Mercedes-Benz,E63,4Matic+,213 MY18,2018,44742,Saloon,Automatic,Premium Unleaded Petrol, Used,3982,Grey,5
+12697665,2019 Mercedes-Benz C63 S 205 MY19,166990,Mercedes-Benz,C63,S,205 MY19,2019,14783,Sedan,Automatic,Premium Unleaded Petrol, Used,3982,Black,4
+12697910,2022 Toyota Landcruiser LC300 VX (4X4) FJA300R,128990,Toyota,Landcruiser,LC300 VX (4X4),FJA300R,2022,9124,Wagon,Automatic,Diesel, Used,3346,White,7
+12697961,2016 BMW X6 M F86 MY16,94990,BMW,X6,M,F86 MY16,2016,39240,Coupe,Automatic,Premium Unleaded Petrol, Used,4395,Grey,5
+12699829,2020 BMW X5 Xdrive 30D G05,111888,BMW,X5,Xdrive 30D,G05,2020,18341,Wagon,Automatic,Diesel, Used,2993,Blue,5
+12700365,2018 Mercedes-Benz GLC63 S 253 MY18,135631,Mercedes-Benz,GLC63,S,253 MY18,2018,53583,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,White,5
+12700368,2020 BMW M2 Competition F87 MY19,112996,BMW,M2,Competition,F87 MY19,2020,9993,Coupe,Manual,Premium Unleaded Petrol, Used,2979,Black,4
+12700570,2020 Mercedes-Benz GLE300 D 4Matic V167 MY19,102000,Mercedes-Benz,GLE300,D 4Matic,V167 MY19,2020,28000,Wagon,Automatic,Diesel, Used,1950,White,5
+12700696,2016 Land Rover Range Rover Sport 3.0 SDV6 HSE Dynamic LW MY16,101880,Land Rover,Range Rover Sport,3.0 SDV6 HSE Dynamic,LW MY16,2016,66125,Wagon,Automatic,Diesel, Used,2993,Grey,5
+12700697,2019 Land Rover Range Rover Sport SDV6 HSE (225KW) LW MY19,159980,Land Rover,Range Rover Sport,SDV6 HSE (225KW),LW MY19,2019,39250,Wagon,Automatic,Diesel, Used,2993,White,5
+12702544,2020 BMW X7 Xdrive30D G07,136990,BMW,X7,Xdrive30D,G07,2020,37871,Wagon,Automatic,Diesel, Used,2993,White,7
+12702761,2022 Volkswagen Touareg 210TDI Elegance CR MY22,113878,Volkswagen,Touareg,210TDI Elegance,CR MY22,2022,11111,Wagon,Automatic,Diesel, Used,2967,Black,5
+12703659,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,98868,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,7735,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12703694,2022 BMW X5 Xdrive30D G05,149990,BMW,X5,Xdrive30D,G05,2022,1587,Wagon,Automatic,Diesel, Demo,2993,Black,5
+12704105,2021 Chevrolet Silverado 1500 LTZ Premium Tech Pack MY21,129990,Chevrolet,Silverado,1500 LTZ Premium Tech Pack,MY21,2021,27406,Crew Cab Utility,Automatic,Unleaded Petrol, Used,6162,Blue,5
+12705465,2021 Toyota Landcruiser LC200 VX (4X4) VDJ200R,162500,Toyota,Landcruiser,LC200 VX (4X4),VDJ200R,2021,24970,Wagon,Automatic,Diesel, Used,4461,Glacier,7
+12705968,2016 HSV Clubsport R8 LSA GEN F2,120960,HSV,Clubsport,R8 LSA,GEN F2,2016,23250,Sedan,Manual,Premium Unleaded Petrol, Used,6200,Red,5
+12705970,2021 Land Rover Range Rover Sport DI6 HSE Dynamic (221KW) L494 MY21.5,173980,Land Rover,Range Rover Sport,DI6 HSE Dynamic (221KW),L494 MY21.5,2021,44150,Wagon,Automatic,Diesel/Electric, Used,2997,Red,5
+12706711,2022 Toyota Landcruiser 70 Series GXL Troop Carrier VDJ78R,117999,Toyota,Landcruiser 70 Series,GXL Troop Carrier,VDJ78R,2022,3393,Wagon,Manual,Diesel, Used,4461,Gold,5
+12706755,2022 BMW X7 Xdrive30D G07,152900,BMW,X7,Xdrive30D,G07,2022,18000,Wagon,Automatic,Diesel, Used,2993,White,7
+12707862,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,104868,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,7304,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12708593,2021 Mercedes-Benz GLC43 4Matic X253 MY21,126990,Mercedes-Benz,GLC43,4Matic,X253 MY21,2021,9112,Wagon,Automatic,Premium Unleaded Petrol, Used,2996,Grey,5
+12708612,2016 Mercedes-Benz GLE63 S 166,119990,Mercedes-Benz,GLE63,S,166,2016,48375,Wagon,Automatic,Premium Unleaded Petrol, Used,5461,Black,5
+12708634,2021 Mercedes-Benz GLA45 S 4Matic+ H247 MY21.5,109990,Mercedes-Benz,GLA45,S 4Matic+,H247 MY21.5,2021,21192,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Blue,5
+12708639,2019 BMW X5 M50D G05,126310,BMW,X5,M50D,G05,2019,73250,Wagon,Automatic,Diesel, Used,2993,White,5
+12708727,2016 Porsche Cayman GTS 981 MY16,152000,Porsche,Cayman,GTS,981 MY16,2016,14986,Coupe,Automatic,Premium Unleaded Petrol, Used,3436,white,2
+12708742,2021 Toyota Landcruiser 70 Series GXL VDJ79R,122990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2021,117,Double Cab Chassis,Manual,Diesel, Used,4461,Grey,5
+12708756,2020 BMW X5 Xdrive 30D G05,107800,BMW,X5,Xdrive 30D,G05,2020,30669,Wagon,Automatic,Diesel, Used,2993,Black,5
+12709054,2022 BMW X5 Xdrive30D G05,139880,BMW,X5,Xdrive30D,G05,2022,1567,Wagon,Automatic,Diesel, Demo,2993,Black,5
+12709107,2022 Audi Q7 50 TDI Quattro S Line Mhev 4M MY22,145990,Audi,Q7,50 TDI Quattro S Line Mhev,4M MY22,2022,10000,Wagon,Automatic,Diesel/Electric, Used,2967,White,7
+12709718,2019 Ram 1500 Laramie (4X4) FD3.2 MY19,98000,Ram,1500,Laramie (4X4) FD3.2,MY19,2019,80000,Crew Cab Utility,Automatic,Unleaded Petrol, Used,5654,Patriot,5
+12710449,2017 Porsche Cayenne GTS Series 2 MY16,104888,Porsche,Cayenne,GTS,Series 2 MY16,2017,70159,Wagon,Automatic,Premium Unleaded Petrol, Used,3604,Blue,5
+12712141,2021 Porsche Macan S 95B MY21,124990,Porsche,Macan,S,95B MY21,2021,33776,Wagon,Automatic,Premium Unleaded Petrol, Used,2995,Black,5
+12712142,2019 Lamborghini Urus 4 Seat 636 MY19,449900,Lamborghini,Urus,4 Seat,636 MY19,2019,14922,Wagon,Automatic,Premium Unleaded Petrol, Used,3996,Blue,4
+12712828,2022 Volkswagen Multivan TDI450 SWB Highline T6.1 MY22,107888,Volkswagen,Multivan,TDI450 SWB Highline,T6.1 MY22,2022,2085,Wagon,Automatic,Diesel, Demo,1968,Black,7
+12713905,2022 Toyota Landcruiser LC300 Sahara (4X4) FJA300R,168888,Toyota,Landcruiser,LC300 Sahara (4X4),FJA300R,2022,31,Wagon,Automatic,Diesel, Used,3346,Black,7
+12714058,2022 Volkswagen Touareg 210TDI Elegance CR MY22,128990,Volkswagen,Touareg,210TDI Elegance,CR MY22,2022,5,Wagon,Automatic,Diesel, New In Stock,2967,White,5
+12714059,2022 Volkswagen Touareg 210TDI Elegance CR MY22,133990,Volkswagen,Touareg,210TDI Elegance,CR MY22,2022,5,Wagon,Automatic,Diesel, New In Stock,2967,Black,5
+12714130,2021 Land Rover Defender 90 D300 SE (220KW) L663 MY21,124990,Land Rover,Defender,90 D300 SE (220KW),L663 MY21,2021,19735,Wagon,Automatic,Diesel, Used,2996,Gold,5
+12714161,2022 Toyota Landcruiser LC300 VX (4X4) FJA300R,136995,Toyota,Landcruiser,LC300 VX (4X4),FJA300R,2022,122,Wagon,Automatic,Diesel, Used,3346,White,7
+12714223,2014 Mercedes-Benz SLK55 AMG R172 MY14,119990,Mercedes-Benz,SLK55,AMG,R172 MY14,2014,9930,Convertible,Automatic,Premium Unleaded Petrol, Used,5461,Black,2
+12714369,2016 Mercedes-Benz C63 S Edition 1 205 MY16,94800,Mercedes-Benz,C63,S Edition 1,205 MY16,2016,102000,Wagon,Automatic,Premium Unleaded Petrol, Used,3982,White,5
+12715170,2022 Audi A6 55 Tfsi Quattro S Line Mhev 4A MY22,124850,Audi,A6,55 Tfsi Quattro S Line Mhev,4A MY22,2022,5800,Sedan,Automatic,Premium Unleaded/Electric, Demo,2995,Silver,5
+12715188,2019 Toyota Landcruiser LC200 VX (4X4) VDJ200R,119990,Toyota,Landcruiser,LC200 VX (4X4),VDJ200R,2019,75170,Wagon,Automatic,Diesel, Used,4461,Grey,7
+12716254,2018 Mercedes-Benz GLS350 D 4Matic X166 MY17,96800,Mercedes-Benz,GLS350,D 4Matic,X166 MY17,2018,72000,Wagon,Automatic,Diesel, Used,2987,White,7
+12716719,2022 Volvo XC60 B5 Inscription Mhev 246 MY22,99990,Volvo,XC60,B5 Inscription Mhev,246 MY22,2022,1592,Wagon,Automatic,Premium Unleaded/Electric, Demo,1969,White,5
+12717124,2019 Ram 1500 Laramie (4X4) FD3.2 W/Ramboxes MY19,124990,Ram,1500,Laramie (4X4) FD3.2 W/Ramboxes,MY19,2019,14192,Crew Cab Utility,Automatic,Unleaded Petrol, Used,5654,Blue,5
+12717334,2022 Volkswagen Touareg 170TDI CR MY22,113840,Volkswagen,Touareg,170TDI,CR MY22,2022,8,Wagon,Automatic,Diesel, New In Stock,2967,White,5
+12717336,2022 Volkswagen Touareg 170TDI CR MY22,102855,Volkswagen,Touareg,170TDI,CR MY22,2022,10,Wagon,Automatic,Diesel, New In Stock,2967,White,5
+12718579,2021 BMW M3 Competition G80,165000,BMW,M3,Competition,G80,2021,11628,Sedan,Automatic,Premium Unleaded Petrol, Used,2993,White,5
+12719257,2018 Land Rover Range Rover Sport SDV6 HSE LW MY18,129980,Land Rover,Range Rover Sport,SDV6 HSE,LW MY18,2018,87850,Wagon,Automatic,Diesel, Used,2993,White,5
+12719412,2006 Bentley Continental GT 3W,129990,Bentley,Continental,GT,3W,2006,139494,Coupe,Automatic,Premium Unleaded Petrol, Used,5998,Blue,4
+12720131,2020 Audi Q8 55 Tfsi Quattro Mhev 4M MY21,118980,Audi,Q8,55 Tfsi Quattro Mhev,4M MY21,2020,42305,Wagon,Automatic,Premium Unleaded/Electric, Used,2995,White,5
+12720607,2016 Audi R8 5.2 FSI Quattro MY15,299990,Audi,R8,5.2 FSI Quattro,MY15,2016,20647,Coupe,Automatic,Premium Unleaded Petrol, Used,5204,Grey,2
+12720901,2022 Volkswagen Touareg 210TDI R-Line CR MY22,142990,Volkswagen,Touareg,210TDI R-Line,CR MY22,2022,5,Wagon,Automatic,Diesel, New In Stock,2967,Grey,5
+12721981,2020 Toyota Landcruiser GXL (4X4) VDJ79R,104987,Toyota,Landcruiser,GXL (4X4),VDJ79R,2020,122213,Double Cab Chassis,Manual,Diesel, Used,4461,Grey,5
+12722610,2022 Audi RS Q3 2.5 Tfsi Quattro F3 MY22,129888,Audi,RS Q3,2.5 Tfsi Quattro,F3 MY22,2022,100,Sportback,Automatic,Premium Unleaded Petrol, Used,2480,Grey,5
+12723795,2020 Land Rover Range Rover Sport SDV6 SE (183KW) L494 MY20.5,154888,Land Rover,Range Rover Sport,SDV6 SE (183KW),L494 MY20.5,2020,35088,Wagon,Automatic,Diesel, Used,2993,Black,5
+12723983,2014 Toyota Landcruiser Altitude (4X4) VDJ200R,105241,Toyota,Landcruiser,Altitude (4X4),VDJ200R,2014,133980,Wagon,Automatic,Diesel, Used,4461,White,8
+12724363,2022 Mercedes-Benz GLE63 S 4Matic+ (hybrid) V167 MY22,234999,Mercedes-Benz,GLE63,S 4Matic+ (hybrid),V167 MY22,2022,12303,Wagon,Automatic,Premium Unleaded/Electric, Used,3982,Grey,5
+12725289,2018 Toyota Landcruiser VX (4X4) VDJ200R MY16,103887,Toyota,Landcruiser,VX (4X4),VDJ200R MY16,2018,107489,Wagon,Automatic,Diesel, Used,4461,White,7
+12726651,2020 Porsche Macan Turbo 95B MY20,145900,Porsche,Macan,Turbo,95B MY20,2020,9056,Wagon,Automatic,Premium Unleaded Petrol, Used,2894,White,5
+12726889,2018 Mercedes-Benz GLS63 4Matic X166 MY18,155000,Mercedes-Benz,GLS63,4Matic,X166 MY18,2018,50535,Wagon,Automatic,Premium Unleaded Petrol, Used,5461,Black,7
+12727077,2021 Audi A6 45 Tfsi Quattro S Line Mhev 4A MY21A,109880,Audi,A6,45 Tfsi Quattro S Line Mhev,4A MY21A,2021,7764,Sedan,Automatic,Premium Unleaded/Electric, Used,1984,Grey,5
+12728716,2022 Toyota Landcruiser 70 Series GXL VDJ76R,112888,Toyota,Landcruiser 70 Series,GXL,VDJ76R,2022,118,Wagon,Manual,Diesel, Used,4461,White,5
+12728786,2019 BMW X5 Xdrive 30D M Sport (5 Seat) G05 MY19,99800,BMW,X5,Xdrive 30D M Sport (5 Seat),G05 MY19,2019,51016,Wagon,Automatic,Diesel, Used,2993,White,5
+12728891,2018 Mercedes-Benz S63 L 222 MY18,269800,Mercedes-Benz,S63,L,222 MY18,2018,43604,Saloon,Automatic,Premium Unleaded Petrol, Used,3982,Grey,5
+12728925,2013 Porsche Boxster S 981 MY13,99990,Porsche,Boxster,S,981 MY13,2013,87114,Roadster,Manual,Premium Unleaded Petrol, Used,3436,Grey,2
+12729101,2021 Mercedes-Benz GLC 300 4Matic C253 MY21,107990,Mercedes-Benz,GLC,300 4Matic,C253 MY21,2021,28079,Coupe,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12729187,2021 BMW M8 Competition Gran Coupe F93,278800,BMW,M8,Competition Gran Coupe,F93,2021,11391,Coupe,Automatic,Premium Unleaded Petrol, Used,4395,Blue,4
+12729675,2019 Mercedes-Benz S350 D W/V222 MY20,123888,Mercedes-Benz,S350,D,W/V222 MY20,2019,36700,Saloon,Automatic,Diesel, Used,2925,Silver,5
+12730196,2021 Mercedes-Benz GT C C190 MY21.5,329999,Mercedes-Benz,GT,C,C190 MY21.5,2021,4400,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,Selenite,2
+12730257,2020 Toyota Landcruiser GXL (4X4) VDJ79R,140000,Toyota,Landcruiser,GXL (4X4),VDJ79R,2020,29200,Double Cab Chassis,Manual,Diesel, Used,4461,Cream,5
+12730781,2019 Land Rover Discovery SD4 HSE (177KW) L462 MY20,107080,Land Rover,Discovery,SD4 HSE (177KW),L462 MY20,2019,34250,Wagon,Automatic,Diesel, Used,1999,White,5
+12731143,2020 Mercedes-Benz GLB35 4Matic X247 MY20.5,94900,Mercedes-Benz,GLB35,4Matic,X247 MY20.5,2020,10695,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,White,7
+12731389,2021 Toyota Landcruiser 70 Series GXL Troop Carrier VDJ78R,112888,Toyota,Landcruiser 70 Series,GXL Troop Carrier,VDJ78R,2021,3421,Wagon,Manual,Diesel, Used,4461,White,5
+12731654,2022 Audi RS 3 2.5 Tfsi S Tronic 8Y MY22,124770,Audi,RS 3,2.5 Tfsi S Tronic,8Y MY22,2022,2911,Sedan,Automatic,Premium Unleaded Petrol, Used,2480,White,5
+12731941,2016 Land Rover Range Rover Vogue SE SDV8 LG MY16,126800,Land Rover,Range Rover,Vogue SE SDV8,LG MY16,2016,42502,Wagon,Automatic,Diesel, Used,4367,Black,5
+12732156,2022 Volkswagen Amarok TDI580 W580X 4Motion 2H MY22,96990,Volkswagen,Amarok,TDI580 W580X 4Motion,2H MY22,2022,14,Dual Cab Utility,Automatic,Diesel, New In Stock,2967,Grey,5
+12732157,2022 Volkswagen Amarok TDI580 W580X 4Motion 2H MY22,104990,Volkswagen,Amarok,TDI580 W580X 4Motion,2H MY22,2022,12,Dual Cab Utility,Automatic,Diesel, New In Stock,2967,Grey,5
+12732391,2018 Toyota Landcruiser GXL (4X4) VDJ79R,102987,Toyota,Landcruiser,GXL (4X4),VDJ79R,2018,59679,Cab Chassis,Manual,Diesel, Used,4461,Grey,2
+12732433,2020 Mercedes-Benz GLE300 D 4Matic V167 MY19,129800,Mercedes-Benz,GLE300,D 4Matic,V167 MY19,2020,16078,Wagon,Automatic,Diesel, Used,1950,White,5
+12732948,2017 Lexus LC500H V6 GWZ100R,129900,Lexus,LC500H,V6,GWZ100R,2017,41929,Coupe,Automatic,Premium Unleaded/Electric, Used,3456,Grey,4
+12733935,2022 Volvo XC60 Recharge Phev 256 MY22,111990,Volvo,XC60,Recharge Phev,256 MY22,2022,4455,Wagon,Automatic,Premium Unleaded/Electric, Demo,1969,Black,5
+12734101,2018 Toyota Landcruiser GXL (4X4) 5 Seat VDJ78R,98987,Toyota,Landcruiser,GXL (4X4) 5 Seat,VDJ78R,2018,68242,Troop Carrier,Manual,Diesel, Used,4461,White,5
+12734319,2022 BMW X5 Xdrive30D G05,149888,BMW,X5,Xdrive30D,G05,2022,8679,Wagon,Automatic,Diesel, Used,2993,Black,5
+12734449,2021 Land Rover Defender 110 P400 X (294KW) L663 MY21,199880,Land Rover,Defender,110 P400 X (294KW),L663 MY21,2021,11320,Wagon,Automatic,Premium Unleaded Petrol, Used,2995,Black,5
+12735317,2020 Ram 1500 Express (4X4) MY19,110000,Ram,1500,Express (4X4),MY19,2020,55000,Coach,Automatic,Unleaded Petrol, Used,5654,Granite,5
+12735671,2018 Toyota Landcruiser GXL (4X4) VDJ79R,119995,Toyota,Landcruiser,GXL (4X4),VDJ79R,2018,85123,Double Cab Chassis,Manual,Diesel, Used,4461,White,5
+12735707,2022 Audi A6 Allroad Quattro 45 TDI 4A MY22,134850,Audi,A6,Allroad Quattro 45 TDI,4A MY22,2022,1590,Wagon,Automatic,Diesel, Demo,2967,Black,5
+12735894,2017 Toyota Landcruiser VX (4X4) VDJ200R MY16,125000,Toyota,Landcruiser,VX (4X4),VDJ200R MY16,2017,49000,Wagon,Automatic,Diesel, Used,4461,Graphite,7
+12735957,2016 Mercedes-Benz GLS500 4Matic X166,106990,Mercedes-Benz,GLS500,4Matic,X166,2016,46637,Wagon,Automatic,Premium Unleaded Petrol, Used,4663,Black,7
+12736003,2016 Bentley Continental GT Speed 3W MY16,269990,Bentley,Continental,GT Speed,3W MY16,2016,42167,Coupe,Automatic,Premium Unleaded Petrol, Used,5998,White,4
+12736064,2017 Mercedes-Benz E400 4Matic 238 MY18,105000,Mercedes-Benz,E400,4Matic,238 MY18,2017,15758,Cabriolet,Automatic,Premium Unleaded Petrol, Used,2996,Silver,4
+12736210,2022 Mercedes-Benz GLE 300 D 4Matic V167 MY22.5,144500,Mercedes-Benz,GLE,300 D 4Matic,V167 MY22.5,2022,15000,Wagon,Automatic,Diesel, Used,1950,Silver,5
+12736373,2006 Porsche 911 Carrera 4 997,134900,Porsche,911,Carrera 4,997,2006,48044,Cabriolet,Manual,Premium Unleaded Petrol, Used,3596,Grey,4
+12736381,2022 Volvo XC90 B6 Inscription Mhev 256 MY22,129900,Volvo,XC90,B6 Inscription Mhev,256 MY22,2022,23,Wagon,Automatic,Premium Unleaded/Electric, Demo,1969,Grey,7
+12736620,2021 Mercedes-Benz A45 S 4Matic+ W177 MY22,102900,Mercedes-Benz,A45,S 4Matic+,W177 MY22,2021,6433,Hatchback,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12737070,2019 Mercedes-Benz GLE400 D 4Matic V167 MY19,129000,Mercedes-Benz,GLE400,D 4Matic,V167 MY19,2019,45600,Wagon,Automatic,Diesel, Used,2925,White,5
+12737426,2018 Toyota Landcruiser LC200 VX (4X4) VDJ200R,111750,Toyota,Landcruiser,LC200 VX (4X4),VDJ200R,2018,63392,Wagon,Automatic,Diesel, Used,4461,Silver,7
+12738607,2018 Toyota Landcruiser Sahara (4X4) VDJ200R MY16,109990,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY16,2018,123924,Wagon,Automatic,Diesel, Used,4461,White,7
+12739294,2022 Mercedes-Benz V 250 D Avantgarde MWB 447 MY21,119800,Mercedes-Benz,V,250 D Avantgarde MWB,447 MY21,2022,3748,Wagon,Automatic,Diesel, Used,2143,Black,7
+12740063,2022 Mercedes-Benz V 250 D Avantgarde MWB 447 MY21,109800,Mercedes-Benz,V,250 D Avantgarde MWB,447 MY21,2022,228,Wagon,Automatic,Diesel, Used,2143,Black,7
+12740201,2022 Volkswagen Touareg 170TDI CR MY22,97990,Volkswagen,Touareg,170TDI,CR MY22,2022,1622,Wagon,Automatic,Diesel, Demo,2967,Grey,5
+12740299,2022 Volkswagen Touareg 210TDI R-Line CR MY22,119890,Volkswagen,Touareg,210TDI R-Line,CR MY22,2022,2111,Wagon,Automatic,Diesel, Demo,2967,White,5
+12740597,2021 Ford Mustang Mach 1 FN MY21.5,99990,Ford,Mustang,Mach 1,FN MY21.5,2021,12015,Fastback,Manual,Premium Unleaded Petrol, Used,5038,White,4
+12740930,2020 Jeep Grand Cherokee SRT (4X4) WK MY20,112888,Jeep,Grand Cherokee,SRT (4X4),WK MY20,2020,42662,Wagon,Automatic,Premium Unleaded Petrol, Used,6424,Grey,5
+12741315,2017 Land Rover Range Rover Velar D300 First Edition MY18,108888,Land Rover,Range Rover Velar,D300 First Edition,MY18,2017,15023,Wagon,Automatic,Diesel, Used,2993,Grey,5
+12742504,2016 Porsche 911 R 991 MY16,899900,Porsche,911,R,991 MY16,2016,400,Coupe,Manual,Premium Unleaded Petrol, Used,3996,White,2
+12743162,2018 Audi RS5 2.9 Tfsi Quattro F5 MY18,115000,Audi,RS5,2.9 Tfsi Quattro,F5 MY18,2018,31501,Coupe,Automatic,Premium Unleaded Petrol, Used,2894,Grey,4
+12743245,2017 BMW M4 CS F82 LCI,119990,BMW,M4,CS,F82 LCI,2017,52450,Coupe,Automatic,Premium Unleaded Petrol, Used,2979,Blue,4
+12744210,2018 Porsche 911 Carrera GTS 991 MY19,319900,Porsche,911,Carrera GTS,991 MY19,2018,12248,Coupe,Automatic,Premium Unleaded Petrol, Used,2981,Grey,4
+12744507,2021 Audi Q7 50 TDI Quattro Mhev 4M MY21,119888,Audi,Q7,50 TDI Quattro Mhev,4M MY21,2021,54033,Wagon,Automatic,Diesel/Electric, Used,2967,White,7
+12745005,2020 Mercedes-Benz E450 4Matic C238 MY20.5,122800,Mercedes-Benz,E450,4Matic,C238 MY20.5,2020,5335,Coupe,Automatic,Premium Unleaded Petrol, Used,2996,White,4
+12745289,2018 Audi TT RS Quattro FV3 MY18,99888,Audi,TT,RS Quattro,FV3 MY18,2018,28940,Coupe,Automatic,Premium Unleaded/Electric, Used,2480,White,4
+12745462,2018 Toyota Landcruiser GXL (4X4) VDJ79R,97990,Toyota,Landcruiser,GXL (4X4),VDJ79R,2018,116448,Double Cab Chassis,Manual,Diesel, Used,4461,White,5
+12745684,2017 Mercedes-Benz E63 S 4Matic+ 213 MY17.5,152900,Mercedes-Benz,E63,S 4Matic+,213 MY17.5,2017,62889,Saloon,Automatic,Premium Unleaded Petrol, Used,3982,Black,5
+12745872,2021 Audi A6 55 Tfsi Quattro S Line Mhev 4A MY22,125950,Audi,A6,55 Tfsi Quattro S Line Mhev,4A MY22,2021,1011,Sedan,Automatic,Premium Unleaded/Electric, Demo,2995,White,5
+12746270,2022 BMW 4 M440I Xdrive G22,129990,BMW,4,M440I Xdrive,G22,2022,8527,Coupe,Automatic,Premium Unleaded Petrol, Used,2998,White,4
+12746883,2015 Land Rover Range Rover Autobiography SDV8 LWB LG MY16,105888,Land Rover,Range Rover,Autobiography SDV8 LWB,LG MY16,2015,115549,Wagon,Automatic,Diesel, Used,4367,Black,5
+12748165,2022 Toyota Landcruiser 70 Series GXL Troop Carrier VDJ78R,115000,Toyota,Landcruiser 70 Series,GXL Troop Carrier,VDJ78R,2022,23,Wagon,Manual,Diesel, Used,4461,White,5
+12748252,2022 Mercedes-Benz GLC 300 4Matic C253 MY22,115868,Mercedes-Benz,GLC,300 4Matic,C253 MY22,2022,3815,Coupe,Automatic,Premium Unleaded Petrol, Used,1991,Blue,5
+12748373,2020 Jaguar F-Pace SVR (awd) (405KW) X761 MY20,139990,Jaguar,F-Pace,SVR (awd) (405KW),X761 MY20,2020,30269,Wagon,Automatic,Premium Unleaded Petrol, Used,5000,Black,5
+12748813,2020 Nissan Patrol TI-L (4X4) Y62 Series 5 MY20,113888,Nissan,Patrol,TI-L (4X4),Y62 Series 5 MY20,2020,26718,Wagon,Automatic,Premium Unleaded Petrol, Used,5552,Grey,7
+12748863,2022 Toyota Landcruiser 70 Series Workmate + Diff Locks VDJ79R,103990,Toyota,Landcruiser 70 Series,Workmate + Diff Locks,VDJ79R,2022,66,Double Cab Chassis,Manual,Diesel, Used,4461,Blue,5
+12748869,2021 Toyota Landcruiser LC200 Sahara (4X4) VDJ200R,144887,Toyota,Landcruiser,LC200 Sahara (4X4),VDJ200R,2021,49801,Wagon,Automatic,Diesel, Used,4461,Black,7
+12749778,2021 Toyota Landcruiser 70 Series GXL VDJ79R,122888,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2021,14793,Double Cab Chassis,Manual,Diesel, Used,4461,Grey,5
+12750912,2022 Toyota Landcruiser 70 Series GXL VDJ76R,119980,Toyota,Landcruiser 70 Series,GXL,VDJ76R,2022,92,Wagon,Manual,Diesel, Used,4461,Beige,5
+12751087,2020 Toyota Landcruiser LC200 Sahara (4X4) VDJ200R,133990,Toyota,Landcruiser,LC200 Sahara (4X4),VDJ200R,2020,73500,Wagon,Automatic,Diesel, Used,4461,Crystal,7
+12751696,2022 Mercedes-Benz GLC 300 4Matic C253 MY22,109800,Mercedes-Benz,GLC,300 4Matic,C253 MY22,2022,4443,Coupe,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12752017,2015 Mercedes-Benz GLE63 S 4Matic 292,122988,Mercedes-Benz,GLE63,S 4Matic,292,2015,45813,Coupe,Automatic,Premium Unleaded Petrol, Used,5461,White,5
+12752034,2021 BMW X7 M50I G07,179988,BMW,X7,M50I,G07,2021,4125,Wagon,Automatic,Unleaded Petrol, Used,4395,White,7
+12752671,2018 Ram 1500 Laramie (4X4) 885KG MY18,96750,Ram,1500,Laramie (4X4) 885KG,MY18,2018,92144,Crew Cab Utility,Automatic,Unleaded Petrol, Used,5654,Black,5
+12752821,2017 Toyota Landcruiser GXL (4X4) VDJ200R MY16,95998,Toyota,Landcruiser,GXL (4X4),VDJ200R MY16,2017,44122,Wagon,Automatic,Diesel, Used,4461,White,7
+12752871,2022 Toyota Landcruiser 70 Series GXL VDJ79R,117990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,31,Double Cab Chassis,Manual,Diesel, Used,4461,Grey,5
+12752883,2022 Volkswagen Touareg 210TDI Elegance CR MY22,109990,Volkswagen,Touareg,210TDI Elegance,CR MY22,2022,4030,Wagon,Automatic,Diesel, Demo,2967,White,5
+12753478,2020 Audi RS Q3 2.5 Tfsi Quattro 8U MY18,105000,Audi,RS Q3,2.5 Tfsi Quattro,8U MY18,2020,19841,Wagon,Automatic,Premium Unleaded Petrol, Used,2480,WHITE,5
+12754050,2022 Volkswagen Touareg 170TDI CR MY22,94990,Volkswagen,Touareg,170TDI,CR MY22,2022,1531,Wagon,Automatic,Diesel, Demo,2967,Grey,5
+12754125,2018 BMW X4 M40I G02 MY19,98900,BMW,X4,M40I,G02 MY19,2018,36500,Coupe,Automatic,Premium Unleaded Petrol, Used,2998,White,5
+12754142,2022 Mercedes-Benz V 300 D Avantgarde MWB 447 MY22,135800,Mercedes-Benz,V,300 D Avantgarde MWB,447 MY22,2022,985,Wagon,Rear,Diesel, Demo,1950,White,7
+12754143,2019 Mercedes-Benz S350 D 222 MY19.5,118800,Mercedes-Benz,S350,D,222 MY19.5,2019,106586,Saloon,Automatic,Diesel, Used,2925,White,5
+12754485,2021 Mercedes-Benz CLA45 S 4Matic+ C118 MY21.5,126800,Mercedes-Benz,CLA45,S 4Matic+,C118 MY21.5,2021,24760,Coupe,Automatic,Premium Unleaded Petrol, Used,1991,White,5
+12755301,2022 Lexus NX350 F Sport + EP1 AWD Taza25R,104990,Lexus,NX350,F Sport + EP1 AWD,Taza25R,2022,4024,Wagon,Automatic,Premium Unleaded Petrol, Used,2393,Black,5
+12755344,2016 Porsche Cayman GT4 981 MY16,208888,Porsche,Cayman,GT4,981 MY16,2016,24344,Coupe,Manual,Premium Unleaded Petrol, Used,3800,Red,2
+12755347,2017 Mercedes-Benz E63 S 4Matic+ 213 MY17.5,159888,Mercedes-Benz,E63,S 4Matic+,213 MY17.5,2017,29654,Saloon,Automatic,Premium Unleaded Petrol, Used,3982,Grey,5
+12755350,2015 Mercedes-Benz GLE63 S 4Matic 292,112888,Mercedes-Benz,GLE63,S 4Matic,292,2015,53640,Coupe,Automatic,Premium Unleaded Petrol, Used,5461,Black,5
+12755702,2021 Land Rover Defender 90 D250 S (183KW) L663 MY22,179990,Land Rover,Defender,90 D250 S (183KW),L663 MY22,2021,1502,Wagon,Automatic,Diesel, Demo,2996,Black,5
+12755868,2022 Toyota Landcruiser 70 Series GXL Troop Carrier VDJ78R,125990,Toyota,Landcruiser 70 Series,GXL Troop Carrier,VDJ78R,2022,201,Wagon,Manual,Diesel, Used,4461,White,5
+12755871,2022 Toyota Landcruiser LC300 GXL (4X4) FJA300R,121888,Toyota,Landcruiser,LC300 GXL (4X4),FJA300R,2022,10,Wagon,Automatic,Diesel, Used,3346,White,7
+12756006,2022 Volkswagen Amarok TDI580 W580S 4Motion 2H MY22,94888,Volkswagen,Amarok,TDI580 W580S 4Motion,2H MY22,2022,25,Dual Cab Utility,Automatic,Diesel, Demo,2967,Grey,5
+12756153,1989 Holden Commodore Berlina VN,129990,Holden,Commodore,Berlina,VN,1989,275000,Sedan,Automatic,Unleaded Petrol, Used,4987,Green,5
+12756249,2020 Audi Q7 45 TDI Quattro Mhev 4M MY21,109888,Audi,Q7,45 TDI Quattro Mhev,4M MY21,2020,32823,Wagon,Automatic,Diesel/Electric, Used,2967,White,7
+12756613,2022 Toyota Landcruiser 70 Series GXL VDJ79R,114990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,47,Double Cab Chassis,Manual,Diesel, Used,4461,Red,5
+12756659,2018 Mercedes-Benz E63 S 4Matic+ 213 MY18,179900,Mercedes-Benz,E63,S 4Matic+,213 MY18,2018,15673,Saloon,Automatic,Premium Unleaded Petrol, Used,3982,White,5
+12757297,2019 Toyota Landcruiser LC200 VX (4X4) VDJ200R,112990,Toyota,Landcruiser,LC200 VX (4X4),VDJ200R,2019,67609,Wagon,Automatic,Diesel, Used,4461,Grey,7
+12757389,2016 Porsche 911 R 991 MY16,999000,Porsche,911,R,991 MY16,2016,3409,Coupe,Manual,Premium Unleaded Petrol, Used,3996,Black,2
+12758276,2006 Toyota Landcruiser GXL (4X4) HDJ100R Upgrade II,130000,Toyota,Landcruiser,GXL (4X4),HDJ100R Upgrade II,2006,135000,Wagon,Automatic,Diesel, Used,4164,Silver,8
+12758478,2021 Jeep Grand Cherokee S-Limited (4X4) WK MY21,94888,Jeep,Grand Cherokee,S-Limited (4X4),WK MY21,2021,15781,Wagon,Automatic,Premium Unleaded Petrol, Used,5654,Black,5
+12758507,2018 Land Rover Range Rover Sport SDV6 HSE LW MY18,122800,Land Rover,Range Rover Sport,SDV6 HSE,LW MY18,2018,38206,Wagon,Automatic,Diesel, Used,2993,White,5
+12759458,2022 Mercedes-Benz V 250 D MWB 447 MY22,118800,Mercedes-Benz,V,250 D MWB,447 MY22,2022,50,Wagon,Rear,Diesel, Demo,1950,Black,7
+12759475,2017 Porsche Macan GTS 95B MY18,97989,Porsche,Macan,GTS,95B MY18,2017,48446,Wagon,Automatic,Premium Unleaded Petrol, Used,2997,Black,5
+12760822,2020 Mercedes-Benz GLC63 S 4Matic+ C253 MY21,178990,Mercedes-Benz,GLC63,S 4Matic+,C253 MY21,2020,21667,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,Grey,5
+12760903,2021 Mercedes-Benz GLC 300 4Matic C253 MY21,109990,Mercedes-Benz,GLC,300 4Matic,C253 MY21,2021,8910,Coupe,Automatic,Premium Unleaded Petrol, Used,1991,Black,5
+12761059,2012 Porsche 911 Carrera S 991,168890,Porsche,911,Carrera S,991,2012,63006,Coupe,Automatic,Premium Unleaded Petrol, Used,3824,Silver,4
+12761679,2021 Jeep Grand Cherokee SRT (4X4) WK MY21,134990,Jeep,Grand Cherokee,SRT (4X4),WK MY21,2021,8533,Wagon,Automatic,Premium Unleaded Petrol, Used,6424,White,5
+12761708,2017 Toyota Landcruiser GXL (4X4) VDJ79R,99888,Toyota,Landcruiser,GXL (4X4),VDJ79R,2017,59898,Double Cab Chassis,Manual,Diesel, Used,4461,Gold,5
+12762720,2019 Mercedes-Benz GLE400 D 4Matic V167 MY19,124950,Mercedes-Benz,GLE400,D 4Matic,V167 MY19,2019,46598,Wagon,Automatic,Diesel, Used,2925,Silver,5
+12763089,2022 Volkswagen Amarok TDI580 W580X 4Motion 2H MY22,104990,Volkswagen,Amarok,TDI580 W580X 4Motion,2H MY22,2022,12,Dual Cab Utility,Automatic,Diesel, New In Stock,2967,Silver,5
+12763159,2016 Aston Martin DB11 Launch Edition MY17,295750,Aston Martin,DB11,Launch Edition,MY17,2016,25555,Coupe,Automatic,Premium Unleaded Petrol, Used,5204,Black,4
+12763388,2016 Toyota Landcruiser GXL (4X4) VDJ200R MY16,95000,Toyota,Landcruiser,GXL (4X4),VDJ200R MY16,2016,117580,Wagon,Automatic,Diesel, Used,4461,White,7
+12764214,2022 Volvo XC60 B6 R-Design Mhev 246 MY22,99888,Volvo,XC60,B6 R-Design Mhev,246 MY22,2022,1009,Wagon,Automatic,Premium Unleaded/Electric, Demo,1969,Blue,5
+12764280,2021 Audi A6 45 Tfsi Quattro S Line Mhev 4A MY22,109990,Audi,A6,45 Tfsi Quattro S Line Mhev,4A MY22,2021,9478,Sedan,Automatic,Premium Unleaded/Electric, Demo,1984,Grey,5
+12764282,2021 Audi S5 3.0 Tfsi Quattro F5 MY22,149990,Audi,S5,3.0 Tfsi Quattro,F5 MY22,2021,7964,Cabriolet,Automatic,Premium Unleaded Petrol, Demo,2995,Black,4
+12764286,2022 Audi Q7 50 TDI Quattro S Line Mhev 4M MY22,149990,Audi,Q7,50 TDI Quattro S Line Mhev,4M MY22,2022,2364,Wagon,Automatic,Diesel/Electric, Demo,2967,White,7
+12764289,2022 Audi A6 55 Tfsi Quattro S Line Mhev 4A MY22,129990,Audi,A6,55 Tfsi Quattro S Line Mhev,4A MY22,2022,5984,Sedan,Automatic,Premium Unleaded/Electric, Demo,2995,Black,5
+12764295,2022 Audi RS 6 Avant 4.0 Tfsi Quattro Mhev 4A MY22,299990,Audi,RS 6,Avant 4.0 Tfsi Quattro Mhev,4A MY22,2022,4167,Wagon,Automatic,Premium Unleaded/Electric, Demo,3996,White,5
+12764297,2022 Audi A6 40 Tfsi S Line Mhev 4A MY22,94990,Audi,A6,40 Tfsi S Line Mhev,4A MY22,2022,2647,Sedan,Automatic,Premium Unleaded/Electric, Demo,1984,White,5
+12764301,2020 Audi RS Q8 Tfsi Quattro Mhev 4M MY20,269990,Audi,RS Q8,Tfsi Quattro Mhev,4M MY20,2020,15894,Wagon,Automatic,Premium Unleaded/Electric, Demo,3996,Black,5
+12764307,2021 Audi RS 5 2.9 Tfsi Quattro F5 MY22,194990,Audi,RS 5,2.9 Tfsi Quattro,F5 MY22,2021,2647,Sportback,Automatic,Premium Unleaded Petrol, Demo,2894,Grey,5
+12764320,2022 Volvo XC60 B6 R-Design Mhev 246 MY22,94990,Volvo,XC60,B6 R-Design Mhev,246 MY22,2022,1135,Wagon,Automatic,Premium Unleaded/Electric, Demo,1969,Grey,5
+12764406,2022 Volvo XC90 B6 Inscription Mhev 256 MY22,119888,Volvo,XC90,B6 Inscription Mhev,256 MY22,2022,1165,Wagon,Automatic,Premium Unleaded/Electric, Demo,1969,Black,7
+12764671,2020 Porsche Macan GTS 95B MY21,139990,Porsche,Macan,GTS,95B MY21,2020,13726,Wagon,Automatic,Premium Unleaded Petrol, Used,2894,White,5
+12764886,2018 Toyota Landcruiser Sahara (4X4) VDJ200R MY16,97990,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY16,2018,149979,Wagon,Automatic,Diesel, Used,4461,White,7
+12765141,2021 Chevrolet Silverado 1500 LTZ Premium Tech Pack MY21,143888,Chevrolet,Silverado,1500 LTZ Premium Tech Pack,MY21,2021,26152,Crew Cab Utility,Automatic,Unleaded Petrol, Used,6162,Grey,5
+12765143,2021 Mercedes-Benz GLC43 4Matic X253 MY22,118888,Mercedes-Benz,GLC43,4Matic,X253 MY22,2021,4301,Wagon,Automatic,Premium Unleaded Petrol, Used,2996,Grey,5
+12765411,2015 Mercedes-Benz C63 AMG S 205,103000,Mercedes-Benz,C63,AMG S,205,2015,119000,Sedan,Automatic,Premium Unleaded Petrol, Used,3982,Black,5
+12765767,2017 Toyota Landcruiser GXL (4X4) LC70 VDJ79R MY17,99888,Toyota,Landcruiser,GXL (4X4),LC70 VDJ79R MY17,2017,169754,Double Cab Chassis,Manual,Diesel, Used,4461,Silver,5
+12766115,2022 Toyota Landcruiser 70 Series GXL VDJ79R,118900,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,14966,Double Cab Chassis,Manual,Diesel, Used,4461,Silver,5
+12766757,2016 Land Rover Range Rover Vogue TDV6 LG MY16,116800,Land Rover,Range Rover,Vogue TDV6,LG MY16,2016,27475,Wagon,Automatic,Diesel, Used,2993,Grey,5
+12767003,2010 Porsche Panamera Turbo 970,94900,Porsche,Panamera,Turbo,970,2010,100000,Coupe,Automatic,Premium Unleaded Petrol, Used,4806,Grey,4
+12767593,2015 Porsche 911 Carrera GTS 991 MY16,239000,Porsche,911,Carrera GTS,991 MY16,2015,93466,Coupe,Manual,Premium Unleaded Petrol, Used,3824,White,4
+12767827,2022 Volkswagen Touareg 170TDI CR MY22,99880,Volkswagen,Touareg,170TDI,CR MY22,2022,12,Wagon,Automatic,Diesel, New In Stock,2967,White,5
+12768508,2021 Toyota Landcruiser 70 Series GXL VDJ79R,129990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2021,435,Double Cab Chassis,Manual,Diesel, Used,4461,Brown,5
+12768558,2021 Audi Q7 50 TDI Quattro S Line Mhev 4M MY21,127690,Audi,Q7,50 TDI Quattro S Line Mhev,4M MY21,2021,40118,Wagon,Automatic,Diesel/Electric, Used,2967,Black,7
+12768629,2021 Mercedes-Benz C300 Mhev W206 MY22,99800,Mercedes-Benz,C300,Mhev,W206 MY22,2021,4733,Sedan,Automatic,Premium Unleaded/Electric, Used,1999,Blue,5
+12768866,2020 Mercedes-Benz GLC63 S 4Matic+ X253 MY20.5,166888,Mercedes-Benz,GLC63,S 4Matic+,X253 MY20.5,2020,19205,Wagon,Automatic,Premium Unleaded Petrol, Used,3982,Black,5
+12769244,2021 Toyota Landcruiser 70 Series GXL VDJ79R,146988,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2021,7108,Double Cab Chassis,Manual,Diesel, Used,4461,Beige,5
+12769249,2015 Toyota Landcruiser Sahara (4X4) VDJ200R MY16,104990,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY16,2015,122093,Wagon,Automatic,Diesel, Used,4461,White,7
+12769352,2018 Toyota Landcruiser LC200 VX (4X4) VDJ200R,98990,Toyota,Landcruiser,LC200 VX (4X4),VDJ200R,2018,129585,Wagon,Automatic,Diesel, Used,4461,White,7
+12769513,2021 Chevrolet Silverado 1500 LTZ Premium Tech Pack MY21,141990,Chevrolet,Silverado,1500 LTZ Premium Tech Pack,MY21,2021,14803,Crew Cab Utility,Automatic,Unleaded Petrol, Used,6162,White,5
+12769888,2022 Toyota Landcruiser LC300 Sahara ZX (4X4) FJA300R,172888,Toyota,Landcruiser,LC300 Sahara ZX (4X4),FJA300R,2022,45,Wagon,Automatic,Diesel, Used,3346,Silver,5
+12769977,2019 Mercedes-Benz GLC63 S 253 MY19,174999,Mercedes-Benz,GLC63,S,253 MY19,2019,29500,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,selenite,5
+12770157,2019 BMW X5 Xdrive 30D G05,104900,BMW,X5,Xdrive 30D,G05,2019,38000,Wagon,Automatic,Diesel, Used,2993,Grey,5
+12770286,2019 Porsche Cayenne E-Hybrid 92A MY19,149900,Porsche,Cayenne,E-Hybrid,92A MY19,2019,11513,Wagon,Automatic,Premium Unleaded/Electric, Used,2995,Blue,5
+12770701,2021 Audi A6 45 Tfsi Quattro S Line Mhev 4A MY22,114990,Audi,A6,45 Tfsi Quattro S Line Mhev,4A MY22,2021,10519,Sedan,Automatic,Premium Unleaded/Electric, Demo,1984,Grey,5
+12771306,2022 Toyota Landcruiser 70 Series GXL Troop Carrier VDJ78R,109990,Toyota,Landcruiser 70 Series,GXL Troop Carrier,VDJ78R,2022,1211,Wagon,Manual,Diesel, Used,4461,Brown,5
+12771333,2021 Toyota Landcruiser 70 Series GXL Troop Carrier VDJ78R,106888,Toyota,Landcruiser 70 Series,GXL Troop Carrier,VDJ78R,2021,24097,Wagon,Manual,Diesel, Used,4461,Gold,5
+12771779,2022 BMW X5 Xdrive30D G05,145900,BMW,X5,Xdrive30D,G05,2022,3510,Wagon,Automatic,Diesel, Demo,2993,White,5
+12772047,2019 Audi Q8 55 Tfsi Quattro (hybrid) 4M MY20,117995,Audi,Q8,55 Tfsi Quattro (hybrid),4M MY20,2019,40788,Wagon,Automatic,Premium Unleaded/Electric, Used,2995,White,5
+12773233,2016 Porsche Cayenne S E-Hybrid Platinum Edition Series 2 MY16,95000,Porsche,Cayenne,S E-Hybrid Platinum Edition,Series 2 MY16,2016,76450,Wagon,Automatic,Premium Unleaded/Electric, Used,2995,White,5
+12774116,2016 Porsche Cayenne S Diesel Series 2 MY17,109900,Porsche,Cayenne,S Diesel,Series 2 MY17,2016,61617,Wagon,Automatic,Diesel, Used,4134,Black,5
+12774118,2016 Porsche 911 Carrera S 991 MY17,233900,Porsche,911,Carrera S,991 MY17,2016,59413,Coupe,Automatic,Premium Unleaded Petrol, Used,2981,Silver,4
+12774119,2011 Porsche 911 Carrera GTS 997 MY11,299900,Porsche,911,Carrera GTS,997 MY11,2011,33991,Coupe,Automatic,Premium Unleaded Petrol, Used,3614,White,4
+12774120,2016 Porsche Cayenne GTS Series 2 MY16,107900,Porsche,Cayenne,GTS,Series 2 MY16,2016,68537,Wagon,Automatic,Premium Unleaded Petrol, Used,3604,Silver,5
+12774121,2019 Porsche Cayenne S 9YB MY20,189900,Porsche,Cayenne,S,9YB MY20,2019,50389,Coupe,Automatic,Premium Unleaded Petrol, Used,2894,Black,5
+12774889,2021 Mercedes-Benz GLC 300 4Matic X253 MY22,97500,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2021,5432,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12774890,2021 Mercedes-Benz GLC 300 4Matic X253 MY22,96000,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2021,9874,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Silver,5
+12775769,2022 Toyota Landcruiser 70 Series GXL VDJ79R,118990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,2288,Double Cab Chassis,Manual,Diesel, Used,4461,White,5
+12775783,2018 Audi RS4 Avant Quattro MY18,148880,Audi,RS4,Avant Quattro,MY18,2018,86596,Wagon,Automatic,Premium Unleaded Petrol, Used,2894,Black,5
+12776030,2022 Toyota Landcruiser 70 Series GXL VDJ79R,129080,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,15548,Double Cab Chassis,Manual,Diesel, Used,4461,Grey,5
+12776483,2022 Volkswagen Amarok TDI580 W580X 4Motion 2H MY22,104990,Volkswagen,Amarok,TDI580 W580X 4Motion,2H MY22,2022,12,Dual Cab Utility,Automatic,Diesel, New In Stock,2967,Blue,5
+12777213,2019 Toyota Landcruiser GXL (4X4) VDJ76R,97987,Toyota,Landcruiser,GXL (4X4),VDJ76R,2019,76505,Wagon,Manual,Diesel, Used,4461,White,7
+12777232,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,99800,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,8374,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Black,5
+12777486,2022 Toyota Landcruiser 70 Series GX + Diff Locks VDJ79R,97388,Toyota,Landcruiser 70 Series,GX + Diff Locks,VDJ79R,2022,20,Cab Chassis,Manual,Diesel, Used,4461,Grey,2
+12778153,2020 Jeep Grand Cherokee SRT (4X4) WK MY21,129980,Jeep,Grand Cherokee,SRT (4X4),WK MY21,2020,15252,Wagon,Automatic,Premium Unleaded Petrol, Used,6424,Black,5
+12779207,2022 Mercedes-Benz GLE 450 4Matic (hybrid) V167 MY22.5,155800,Mercedes-Benz,GLE,450 4Matic (hybrid),V167 MY22.5,2022,4537,Wagon,Automatic,Premium Unleaded/Electric, Used,2999,White,5
+12779376,2022 Audi S5 3.0 Tfsi Quattro F5 MY22,122888,Audi,S5,3.0 Tfsi Quattro,F5 MY22,2022,2669,Sportback,Automatic,Premium Unleaded Petrol, Demo,2995,Black,5
+12779551,2020 Jeep Grand Cherokee SRT (4X4) WK MY20,123988,Jeep,Grand Cherokee,SRT (4X4),WK MY20,2020,22342,Wagon,Automatic,Premium Unleaded Petrol, Used,6424,Grey,5
+12779678,2017 Toyota Landcruiser GXL (4X4) VDJ79R,99990,Toyota,Landcruiser,GXL (4X4),VDJ79R,2017,115012,Double Cab Chassis,Manual,Diesel, Used,4461,Silver,5
+12779870,2018 Audi RS4 Avant Quattro MY18,129990,Audi,RS4,Avant Quattro,MY18,2018,36369,Wagon,Automatic,Premium Unleaded Petrol, Used,2894,Blue,5
+12779995,2018 Mercedes-Benz AMG GT S 190 MY17.5,279990,Mercedes-Benz,AMG GT,S,190 MY17.5,2018,16807,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,Silver,2
+12780005,2022 Mercedes-Benz GLB35 4Matic X247 MY22,96900,Mercedes-Benz,GLB35,4Matic,X247 MY22,2022,4575,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,White,7
+12780086,2015 Mercedes-Benz C63 AMG S 205,103000,Mercedes-Benz,C63,AMG S,205,2015,119887,Sedan,Automatic,Premium Unleaded Petrol, Used,3982,Black,5
+12780180,2022 Volkswagen Touareg 210TDI Elegance CR MY22,130306,Volkswagen,Touareg,210TDI Elegance,CR MY22,2022,15,Wagon,Automatic,Diesel, New In Stock,2967,Grey,5
+12780378,2022 Volkswagen Touareg 210TDI Elegance CR MY22,130306,Volkswagen,Touareg,210TDI Elegance,CR MY22,2022,15,Wagon,Automatic,Diesel, New In Stock,2967,Black,5
+12780447,2022 Volkswagen Touareg 210TDI Elegance CR MY22,119990,Volkswagen,Touareg,210TDI Elegance,CR MY22,2022,1505,Wagon,Automatic,Diesel, Demo,2967,Black,5
+12780556,2022 Volkswagen Touareg 210TDI R-Line CR MY22,135990,Volkswagen,Touareg,210TDI R-Line,CR MY22,2022,10,Wagon,Automatic,Diesel, New In Stock,2967,Silver,5
+12780557,2022 Volkswagen Touareg 210TDI R-Line CR MY22,135990,Volkswagen,Touareg,210TDI R-Line,CR MY22,2022,10,Wagon,Automatic,Diesel, New In Stock,2967,Grey,5
+12780586,2017 Mercedes-Benz C63 S 205 MY16,98990,Mercedes-Benz,C63,S,205 MY16,2017,101847,Wagon,Automatic,Premium Unleaded Petrol, Used,3982,Black,5
+12780871,2022 Volkswagen Touareg 170TDI CR MY22,94990,Volkswagen,Touareg,170TDI,CR MY22,2022,14,Wagon,Automatic,Diesel, New In Stock,2967,Black,5
+12781206,2015 Mercedes-Benz GLE63 S 166,99888,Mercedes-Benz,GLE63,S,166,2015,58998,Wagon,Automatic,Premium Unleaded Petrol, Used,5461,Silver,5
+12781207,2021 Mercedes-Benz C300 Mhev W206 MY22,101800,Mercedes-Benz,C300,Mhev,W206 MY22,2021,5565,Sedan,Automatic,Premium Unleaded/Electric, Used,1999,Grey,5
+12781280,2016 Mercedes-Benz C63 S 205 MY16,114800,Mercedes-Benz,C63,S,205 MY16,2016,41468,Sedan,Automatic,Premium Unleaded Petrol, Used,3982,White,5
+12781545,2022 Mercedes-Benz C300 Mhev W206 MY22,96800,Mercedes-Benz,C300,Mhev,W206 MY22,2022,8507,Sedan,Automatic,Premium Unleaded/Electric, Used,1999,Grey,5
+12781552,2019 Toyota Landcruiser GXL (4X4) VDJ79R,119990,Toyota,Landcruiser,GXL (4X4),VDJ79R,2019,21100,Double Cab Chassis,Manual,Diesel, Used,4461,Blue,5
+12781591,2022 Toyota Landcruiser 70 Series GXL Troop Carrier VDJ78R,112999,Toyota,Landcruiser 70 Series,GXL Troop Carrier,VDJ78R,2022,13333,Wagon,Manual,Diesel, Used,4461,White,5
+12781612,2021 BMW M3 Competition M Xdrive G80,175000,BMW,M3,Competition M Xdrive,G80,2021,3846,Saloon,Automatic,Premium Unleaded Petrol, Used,2993,Matte,5
+12782044,2020 Toyota Landcruiser Workmate (4X4) VDJ79R MY18,99990,Toyota,Landcruiser,Workmate (4X4),VDJ79R MY18,2020,19252,Cab Chassis,Manual,Diesel, Used,4461,White,3
+12782253,2022 Toyota Landcruiser 70 Series GXL Troop Carrier VDJ78R,112888,Toyota,Landcruiser 70 Series,GXL Troop Carrier,VDJ78R,2022,16040,Wagon,Manual,Diesel, Used,4461,Gold,5
+12782627,2011 Porsche 911 Carrera 4 S 997 MY11,169900,Porsche,911,Carrera 4 S,997 MY11,2011,92423,Coupe,Automatic,Premium Unleaded Petrol, Used,3800,Grey,4
+12784194,2022 Audi RS Q3 2.5 Tfsi Quattro F3 MY22,124900,Audi,RS Q3,2.5 Tfsi Quattro,F3 MY22,2022,1206,Wagon,Automatic,Premium Unleaded Petrol, Demo,2480,Black,5
+12784671,2020 Audi RS Q3 2.5 Tfsi Quattro F3 MY20,109888,Audi,RS Q3,2.5 Tfsi Quattro,F3 MY20,2020,12768,Wagon,Automatic,Premium Unleaded Petrol, Used,2480,White,5
+12784684,2020 Toyota Landcruiser Prado Kakadu (4X4) GDJ150R,96990,Toyota,Landcruiser Prado,Kakadu (4X4),GDJ150R,2020,28492,Wagon,Automatic,Diesel, Used,2755,Black,7
+12784738,2017 Porsche Cayenne GTS Series 2 MY16,99800,Porsche,Cayenne,GTS,Series 2 MY16,2017,77469,Wagon,Automatic,Premium Unleaded Petrol, Used,3604,White,5
+12784775,2021 Toyota Landcruiser 70 Series Workmate VDJ79R,112990,Toyota,Landcruiser 70 Series,Workmate,VDJ79R,2021,340,Double Cab Chassis,Manual,Diesel, Used,4461,White,5
+12784777,2019 Land Rover Range Rover Sport SDV6 HSE Dynamic (225KW) L494 MY20,159990,Land Rover,Range Rover Sport,SDV6 HSE Dynamic (225KW),L494 MY20,2019,55680,Wagon,Automatic,Diesel, Used,2993,Grey,5
+12784979,2022 Jeep Wrangler Unlimited Rubicon (4X4) JL MY22,96555,Jeep,Wrangler Unlimited,Rubicon (4X4),JL MY22,2022,16,Hardtop,Automatic,Unleaded Petrol, New In Stock,3604,Grey,5
+12786233,2022 Volkswagen Touareg 210TDI R-Line CR MY22,139990,Volkswagen,Touareg,210TDI R-Line,CR MY22,2022,14,Wagon,Automatic,Diesel, New In Stock,2967,White,5
+12786369,2022 Audi SQ5 3.0 TDI Quattro Mhev FY MY22A,117900,Audi,SQ5,3.0 TDI Quattro Mhev,FY MY22A,2022,7517,Sportback,Automatic,Diesel/Electric, Used,2967,White,5
+12786398,2021 Toyota Landcruiser LC200 Sahara Horizon SE (4X4) VDJ200R,168990,Toyota,Landcruiser,LC200 Sahara Horizon SE (4X4),VDJ200R,2021,26942,Wagon,Automatic,Diesel, Used,4461,Black,7
+12786766,2021 Jeep Gladiator Night Eagle (4X4) JT MY21 V2,98990,Jeep,Gladiator,Night Eagle (4X4),JT MY21 V2,2021,980,Dual Cab Utility,Automatic,Unleaded Petrol, Used,3604,Green,5
+12786881,2022 Toyota Supra GTS +alcantara Seats DB02R,104990,Toyota,Supra,GTS +alcantara Seats,DB02R,2022,7603,Coupe,Automatic,Premium Unleaded Petrol, Used,2998,Yellow,2
+12787034,2018 Lamborghini Urus 4 Seat 636 MY19,428990,Lamborghini,Urus,4 Seat,636 MY19,2018,23522,Wagon,Automatic,Premium Unleaded Petrol, Used,3996,Blue,4
+12787396,2021 Audi Q7 50 TDI Quattro S Line Mhev 4M MY21,119990,Audi,Q7,50 TDI Quattro S Line Mhev,4M MY21,2021,33616,Wagon,Automatic,Diesel/Electric, Used,2967,Grey,7
+12787479,2022 Volkswagen Touareg 170TDI CR MY22,102990,Volkswagen,Touareg,170TDI,CR MY22,2022,20,Wagon,Automatic,Diesel, New In Stock,2967,Grey,5
+12788411,2022 Toyota Landcruiser LC300 Sahara (4X4) FJA300R,159777,Toyota,Landcruiser,LC300 Sahara (4X4),FJA300R,2022,60,Wagon,Automatic,Diesel, Used,3346,White,7
+12788813,2020 Mercedes-Benz GLS 400D 4Matic X167 MY20.5,169800,Mercedes-Benz,GLS,400D 4Matic,X167 MY20.5,2020,37168,Wagon,Automatic,Diesel, Used,2925,White,7
+12789036,2009 Porsche 911 Carrera 4 S 997 MY09,199900,Porsche,911,Carrera 4 S,997 MY09,2009,11990,Coupe,Automatic,Premium Unleaded Petrol, Used,3800,Gold,4
+12789324,2021 Subaru WRX STI (awd) MY21,95000,Subaru,WRX,STI (awd),MY21,2021,2200,Sedan,Manual,Premium Unleaded Petrol, Used,2457,pearl,5
+12789467,2020 Land Rover Range Rover Velar P250 R-Dynamic SE (184KW) L560 MY20,129000,Land Rover,Range Rover Velar,P250 R-Dynamic SE (184KW),L560 MY20,2020,17501,Wagon,Automatic,Premium Unleaded Petrol, Used,1997,White,5
+12789488,2020 Porsche Macan GTS 95B MY20,148000,Porsche,Macan,GTS,95B MY20,2020,21633,Wagon,Automatic,Premium Unleaded Petrol, Used,2894,Grey,5
+12789540,2019 Chevrolet Camaro ZL1 1AL37 MY19,170000,Chevrolet,Camaro,ZL1,1AL37 MY19,2019,18820,Coupe,Automatic,Premium Unleaded Petrol, Used,6162,Red,4
+12790064,2022 Audi A5 45 Tfsi Quattro S Line Mhev F5 MY22,99850,Audi,A5,45 Tfsi Quattro S Line Mhev,F5 MY22,2022,1650,Sportback,AWD,Premium Unleaded/Electric, Demo,1984,Grey,5
+12790081,2022 BMW X3 Xdrive30I M Sport G01,99900,BMW,X3,Xdrive30I M Sport,G01,2022,3500,Wagon,Automatic,Premium Unleaded Petrol, Used,1998,Black,5
+12790225,2016 Hyundai Santa FE Active Crdi (4X4) DM Series II (DM3),284888,Hyundai,Santa FE,Active Crdi (4X4),DM Series II (DM3),2016,107830,Wagon,Automatic,Diesel, Used,2199,Silver,7
+12790437,2018 BMW X5 Xdrive 30D Xline (5 Seat) G05 MY19,96900,BMW,X5,Xdrive 30D Xline (5 Seat),G05 MY19,2018,69988,Wagon,Automatic,Diesel, Used,2993,White,5
+12791153,2019 Toyota Landcruiser GXL (4X4) VDJ79R,117850,Toyota,Landcruiser,GXL (4X4),VDJ79R,2019,11687,Double Cab Chassis,Manual,Diesel, Used,4461,Grey,5
+12791428,2014 Mercedes-Benz G63 AMG 463 MY13,199500,Mercedes-Benz,G63,AMG,463 MY13,2014,47545,Wagon,Automatic,Premium Unleaded Petrol, Used,5461,Black,5
+12791773,2021 Volkswagen Touareg 210TDI Elegance CR MY21,105990,Volkswagen,Touareg,210TDI Elegance,CR MY21,2021,26500,Wagon,Automatic,Diesel, Used,2967,White,5
+12791972,2020 BMW M2 Competition F87,98888,BMW,M2,Competition,F87,2020,40252,Coupe,Automatic,Premium Unleaded Petrol, Used,2979,Silver,4
+12792856,2022 Toyota Landcruiser LC300 VX (4X4) FJA300R,136887,Toyota,Landcruiser,LC300 VX (4X4),FJA300R,2022,377,Wagon,Automatic,Diesel, Used,3346,White,7
+12792892,2019 Toyota Landcruiser LC200 GXL (4X4) VDJ200R,109990,Toyota,Landcruiser,LC200 GXL (4X4),VDJ200R,2019,12740,Wagon,Automatic,Diesel, Used,4461,White,8
+12793504,2019 Land Rover Range Rover Sport SDV6 HSE Dynamic (225KW) LW MY19,159880,Land Rover,Range Rover Sport,SDV6 HSE Dynamic (225KW),LW MY19,2019,45500,Wagon,Automatic,Diesel, Used,2993,Black,5
+12793572,2019 Ram 1500 Laramie (4X4) FD3.2 W/Ramboxes MY19,115990,Ram,1500,Laramie (4X4) FD3.2 W/Ramboxes,MY19,2019,72000,Crew Cab Utility,Automatic,Unleaded Petrol, Used,5654,Silver,5
+12794090,2016 Toyota Landcruiser Sahara (4X4) VDJ200R MY16,112880,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY16,2016,99876,Wagon,Automatic,Diesel, Used,4461,White,7
+12794154,2021 Mercedes-Benz C63 S C205 MY21.5,179777,Mercedes-Benz,C63,S,C205 MY21.5,2021,2558,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,Silver,4
+12794167,2021 BMW M8 Competition Gran Coupe F93,314988,BMW,M8,Competition Gran Coupe,F93,2021,2621,Coupe,Automatic,Premium Unleaded Petrol, Used,4395,White,4
+12794478,2021 Mercedes-Benz C63 S C205 MY21,189990,Mercedes-Benz,C63,S,C205 MY21,2021,3743,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,White,4
+12794969,2021 Land Rover Range Rover Sport DI6 SE (183KW) L494 MY21.5,149990,Land Rover,Range Rover Sport,DI6 SE (183KW),L494 MY21.5,2021,8595,Wagon,Automatic,Diesel/Electric, Used,2997,White,5
+12795283,2022 Jeep Gladiator Rubicon (4X4) JT MY22,98000,Jeep,Gladiator,Rubicon (4X4),JT MY22,2022,10,Dual Cab Utility,Automatic,Unleaded Petrol, New In Stock,3604,Black,5
+12795315,2022 Jeep Wrangler Unlimited Overland (4X4) JL MY22,95990,Jeep,Wrangler Unlimited,Overland (4X4),JL MY22,2022,55,Hardtop,Automatic,Unleaded Petrol, New In Stock,3604,Blue,5
+12796404,2018 Mercedes-Benz GLC63 S 253 MY19,136900,Mercedes-Benz,GLC63,S,253 MY19,2018,22246,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,Grey,5
+12796533,2022 Audi RS 3 2.5 Tfsi S Tronic 8Y MY22,124888,Audi,RS 3,2.5 Tfsi S Tronic,8Y MY22,2022,3101,Sportback,Automatic,Premium Unleaded Petrol, Used,2480,Blue,5
+12796563,2022 Jeep Wrangler Unlimited Rubicon (4X4) JL MY22,94578,Jeep,Wrangler Unlimited,Rubicon (4X4),JL MY22,2022,20,Hardtop,Automatic,Unleaded Petrol, New In Stock,3604,White,5
+12797123,2002 Porsche 911 Targa 996,99900,Porsche,911,Targa,996,2002,55587,Coupe,Manual,Premium Unleaded Petrol, Used,3596,Grey,4
+12797229,2016 Mercedes-Benz AMG GT S 190 MY17,179888,Mercedes-Benz,AMG GT,S,190 MY17,2016,49587,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,Grey,2
+12797303,2021 Audi Q7 45 TDI Quattro Mhev 4M MY21,108880,Audi,Q7,45 TDI Quattro Mhev,4M MY21,2021,22998,Wagon,Automatic,Diesel/Electric, Used,2967,White,7
+12797769,2022 BMW X5 Xdrive30D G05,132900,BMW,X5,Xdrive30D,G05,2022,3557,Wagon,Automatic,Diesel, Demo,2993,Grey,5
+12797771,2022 BMW X5 Xdrive30D G05,133900,BMW,X5,Xdrive30D,G05,2022,3566,Wagon,Automatic,Diesel, Demo,2993,Black,5
+12797808,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,99800,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,5600,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12797810,2022 Mercedes-Benz GLC 300 4Matic C253 MY22,112800,Mercedes-Benz,GLC,300 4Matic,C253 MY22,2022,3286,Coupe,Automatic,Premium Unleaded Petrol, Used,1991,Silver,5
+12797811,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,95800,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,13978,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,White,5
+12797812,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,94800,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,4590,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Blue,5
+12797914,2021 Chevrolet Silverado 1500 LTZ Premium Tech Pack MY21,134990,Chevrolet,Silverado,1500 LTZ Premium Tech Pack,MY21,2021,54001,Crew Cab Utility,Automatic,Unleaded Petrol, Used,6162,Silver,5
+12799090,2019 Mercedes-Benz GLS 400D 4Matic X167,149950,Mercedes-Benz,GLS,400D 4Matic,X167,2019,30482,Wagon,Automatic,Diesel, Used,2925,Black,7
+12799117,2019 Toyota Landcruiser LC200 VX (4X4) VDJ200R,114888,Toyota,Landcruiser,LC200 VX (4X4),VDJ200R,2019,60206,Wagon,Automatic,Diesel, Used,4461,Red,7
+12799289,2018 Alfa Romeo Giulia Quadrifoglio (qv) 952,105830,Alfa Romeo,Giulia,Quadrifoglio (qv),952,2018,22150,Sedan,Automatic,Premium Unleaded Petrol, Used,2891,White,4
+12799354,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,96800,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,14870,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Silver,5
+12799355,2022 Mercedes-Benz GLE 450 4Matic (hybrid) C167 MY22.5,164800,Mercedes-Benz,GLE,450 4Matic (hybrid),C167 MY22.5,2022,15553,Coupe,Automatic,Premium Unleaded/Electric, Used,2999,White,5
+12799356,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,99800,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,3832,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Black,5
+12799357,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,98800,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,7439,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12799358,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,98800,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,8591,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,White,5
+12799359,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,96800,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,13734,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12799371,2020 Lexus RX450H Sports Luxury Hybrid GYL25R,112500,Lexus,RX450H,Sports Luxury Hybrid,GYL25R,2020,20491,Wagon,Automatic,Premium Unleaded/Electric, Used,3456,Black,5
+12799376,2020 Toyota Landcruiser LC200 VX (4X4) VDJ200R,124999,Toyota,Landcruiser,LC200 VX (4X4),VDJ200R,2020,45489,Wagon,Automatic,Diesel, Used,4461,Black,7
+12799448,2018 Porsche Macan Turbo 95B MY18,109990,Porsche,Macan,Turbo,95B MY18,2018,38626,Wagon,Automatic,Premium Unleaded Petrol, Used,3604,White,5
+12799636,2021 Toyota Landcruiser 70 Series GXL VDJ79R,141990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2021,5562,Double Cab Chassis,Manual,Diesel, Used,4461,Silver,5
+12800272,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,96800,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,10581,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12800376,2021 Toyota Landcruiser 70 Series GXL 70TH Anniversary Spec EDT VDJ79R,129995,Toyota,Landcruiser 70 Series,GXL 70TH Anniversary Spec EDT,VDJ79R,2021,314,Double Cab Chassis,Manual,Diesel, Used,4461,White,5
+12800377,2021 Toyota Landcruiser 70 Series GXL 70TH Anniversary Spec EDT VDJ79R,134995,Toyota,Landcruiser 70 Series,GXL 70TH Anniversary Spec EDT,VDJ79R,2021,103,Double Cab Chassis,Manual,Diesel, Used,4461,Beige,5
+12800379,2022 Toyota Landcruiser 70 Series GXL VDJ79R,105000,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,40,Cab Chassis,Manual,Diesel, Used,4461,Red,2
+12800381,2022 Toyota Landcruiser 70 Series GXL VDJ79R,105000,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,11,Cab Chassis,Manual,Diesel, Used,4461,Beige,2
+12800759,2019 Toyota Landcruiser GXL (4X4) VDJ79R,107990,Toyota,Landcruiser,GXL (4X4),VDJ79R,2019,102151,Double Cab Chassis,Manual,Diesel, Used,4461,Silver,5
+12801363,2021 Ford Mustang GT 5.0 V8 FN MY21.5,134705,Ford,Mustang,GT 5.0 V8,FN MY21.5,2021,9959,Fastback,Automatic,Premium Unleaded Petrol, Used,4950,Grey,4
+12801507,2019 Ram 1500 Laramie (4X4) FD3.9 MY19,118000,Ram,1500,Laramie (4X4) FD3.9,MY19,2019,55806,Crew Cab Utility,Automatic,Unleaded Petrol, Used,5654,Black,5
+12801834,2019 BMW M2 Competition F87 MY19,104900,BMW,M2,Competition,F87 MY19,2019,15000,Coupe,Automatic,Premium Unleaded Petrol, Used,2979,Blue,4
+12801901,2022 Toyota Landcruiser 70 Series GXL VDJ79R,118888,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,68,Double Cab Chassis,Manual,Diesel, Used,4461,Beige,5
+12802280,2021 BMW M340I Xdrive G20,95000,BMW,M340I,Xdrive,G20,2021,14000,Sedan,Automatic,Premium Unleaded Petrol, Used,2998,Mineral,5
+12802809,2019 Toyota Landcruiser GXL (4X4) VDJ79R,119995,Toyota,Landcruiser,GXL (4X4),VDJ79R,2019,65015,Double Cab Chassis,Manual,Diesel, Used,4461,Silver,5
+12802975,2022 Toyota Landcruiser 70 Series GXL VDJ76R,118930,Toyota,Landcruiser 70 Series,GXL,VDJ76R,2022,36,Wagon,Manual,Diesel, Used,4461,Red,5
+12802976,2021 Toyota Landcruiser 70 Series GXL VDJ79R,123930,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2021,4861,Double Cab Chassis,Manual,Diesel, Used,4461,Gold,5
+12803223,2018 Mercedes-Benz GLC63 S 253 MY18,122990,Mercedes-Benz,GLC63,S,253 MY18,2018,43222,Wagon,Automatic,Premium Unleaded Petrol, Used,3982,White,5
+12803551,2008 Bentley Continental Flying Spur 3W,110000,Bentley,Continental,Flying Spur,3W,2008,123460,Sedan,Automatic,Premium Unleaded Petrol, Used,5998,Pearl,4
+12803756,2020 Nissan Patrol TI-L (4X4) Y62 Series 5 MY20,98888,Nissan,Patrol,TI-L (4X4),Y62 Series 5 MY20,2020,49981,Wagon,Automatic,Premium Unleaded Petrol, Used,5552,White,7
+12804884,2017 Mercedes-Benz C63 S 205 MY17.5,99900,Mercedes-Benz,C63,S,205 MY17.5,2017,70864,Sedan,Automatic,Premium Unleaded Petrol, Used,3982,Silver,4
+12805281,2022 Toyota Landcruiser 70 Series GXL Troop Carrier VDJ78R,119888,Toyota,Landcruiser 70 Series,GXL Troop Carrier,VDJ78R,2022,42,Wagon,Manual,Diesel, Used,4461,White,5
+12805462,2020 Mercedes-Benz GLC 300 4Matic C253 MY20.5,101490,Mercedes-Benz,GLC,300 4Matic,C253 MY20.5,2020,31691,Coupe,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12806009,2020 Jeep Grand Cherokee SRT (4X4) WK MY20,129990,Jeep,Grand Cherokee,SRT (4X4),WK MY20,2020,34595,Wagon,Automatic,Premium Unleaded Petrol, Used,6424,White,5
+12806098,2021 Porsche Cayenne GTS 9Y MY21,263000,Porsche,Cayenne,GTS,9Y MY21,2021,9584,Coupe,Automatic,Premium Unleaded Petrol, Used,3996,Grey,4
+12806100,2020 Toyota Landcruiser GXL (4X4) VDJ79R,120990,Toyota,Landcruiser,GXL (4X4),VDJ79R,2020,26416,Double Cab Chassis,Manual,Diesel, Used,4461,White,5
+12806101,2020 Toyota Landcruiser GXL (4X4) VDJ79R,119990,Toyota,Landcruiser,GXL (4X4),VDJ79R,2020,53371,Double Cab Chassis,Manual,Diesel, Used,4461,White,5
+12806117,2016 Mercedes-Benz AMG GT S 190 MY17,201888,Mercedes-Benz,AMG GT,S,190 MY17,2016,32099,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,White,2
+12806226,2022 Ram 1500 Laramie (hybrid) DT MY22,138000,Ram,1500,Laramie (hybrid),DT MY22,2022,24000,Crew Cab Utility,Automatic,Premium Unleaded/Electric, Used,5654,Graphite,5
+12806717,2019 Audi RS5 2.9 Tfsi Tiptronic F5 MY19,123888,Audi,RS5,2.9 Tfsi Tiptronic,F5 MY19,2019,37879,Sportback,Automatic,Premium Unleaded Petrol, Used,2894,Silver,4
+12806879,2019 Audi RS4 Avant 2.9 Tfsi Tiptronic 8W MY19,128880,Audi,RS4,Avant 2.9 Tfsi Tiptronic,8W MY19,2019,38596,Wagon,Automatic,Premium Unleaded Petrol, Used,2894,Black,5
+12808401,2022 Toyota Landcruiser 70 Series GXL VDJ76R,99880,Toyota,Landcruiser 70 Series,GXL,VDJ76R,2022,4985,Wagon,Manual,Diesel, Used,4461,Red,5
+12808823,2022 Toyota Landcruiser 70 Series Workmate Troop Carrier VDJ78R,98778,Toyota,Landcruiser 70 Series,Workmate Troop Carrier,VDJ78R,2022,6622,Wagon,Manual,Diesel, Used,4461,White,2
+12810283,2021 Toyota Landcruiser LC200 GXL (4X4) VDJ200R,110000,Toyota,Landcruiser,LC200 GXL (4X4),VDJ200R,2021,11281,Wagon,Automatic,Diesel, Used,4461,Silver,8
+12810343,2013 Porsche 911 Carrera S 991 MY13,194900,Porsche,911,Carrera S,991 MY13,2013,34744,Coupe,Manual,Premium Unleaded Petrol, Used,3824,Blue,4
+12811518,2020 Mercedes-Benz A45 S 4Matic W177 MY20.5,99800,Mercedes-Benz,A45,S 4Matic,W177 MY20.5,2020,21504,Hatchback,Automatic,Premium Unleaded Petrol, Used,1991,Silver,5
+12811883,2016 Bentley Bentayga 4 Seat MY17,255000,Bentley,Bentayga,4 Seat,MY17,2016,56833,Wagon,Automatic,Premium Unleaded Petrol, Used,5950,Black,4
+12811918,2015 Maserati Quattroporte S M156,99000,Maserati,Quattroporte,S,M156,2015,31040,Sedan,Automatic,Premium Unleaded Petrol, Used,2979,Blue,5
+12811946,2015 HSV Maloo R8 GEN F MY15,104242,HSV,Maloo,R8,GEN F MY15,2015,16640,Utility,Automatic,Premium Unleaded Petrol, Used,6200,Red,2
+12812108,2021 Toyota Landcruiser Prado Kakadu GDJ150R,95800,Toyota,Landcruiser Prado,Kakadu,GDJ150R,2021,38215,Wagon,Automatic,Diesel, Used,2755,Black,7
+12812178,2019 Ram 1500 Laramie (4X4) FD3.2 MY19,94990,Ram,1500,Laramie (4X4) FD3.2,MY19,2019,126110,Crew Cab Utility,Automatic,Unleaded Petrol, Used,5654,White,5
+12812196,2018 Audi RS4 Avant Quattro MY18,124880,Audi,RS4,Avant Quattro,MY18,2018,31897,Wagon,Automatic,Premium Unleaded Petrol, Used,2894,White,5
+12812198,2021 Audi RS Q3 2.5 Tfsi Quattro F3 MY21,109880,Audi,RS Q3,2.5 Tfsi Quattro,F3 MY21,2021,24161,Sportback,Automatic,Premium Unleaded Petrol, Used,2480,Black,5
+12812389,2018 BMW M3 Competition F80 LCI MY17,115800,BMW,M3,Competition,F80 LCI MY17,2018,25496,Sedan,Automatic,Premium Unleaded Petrol, Used,2979,Blue,5
+12812403,2021 Mercedes-Benz GLC43 4Matic X253 MY21,118922,Mercedes-Benz,GLC43,4Matic,X253 MY21,2021,25194,Wagon,Automatic,Premium Unleaded Petrol, Used,2996,Grey,5
+12812408,2018 Porsche Cayenne S 92A MY19,135900,Porsche,Cayenne,S,92A MY19,2018,39076,Wagon,Automatic,Premium Unleaded Petrol, Used,2894,White,5
+12812456,2021 Ram 1500 Express DS MY21,109990,Ram,1500,Express,DS MY21,2021,21000,Crew Cab Utility,Automatic,Premium Unleaded Petrol, Used,5654,White,5
+12813311,2019 Mercedes-Benz GLE400 D 4Matic V167 MY19,97880,Mercedes-Benz,GLE400,D 4Matic,V167 MY19,2019,126676,Wagon,Automatic,Diesel, Used,2925,Grey,5
+12813861,2021 Audi SQ8 TDI Quattro 4M MY21,198890,Audi,SQ8,TDI Quattro,4M MY21,2021,8680,Wagon,Automatic,Diesel, Used,3956,Black,5
+12814393,2013 Porsche 911 GT3 991,292911,Porsche,911,GT3,991,2013,32299,Coupe,Automatic,Premium Unleaded Petrol, Used,3800,Grey,2
+12814429,2020 BMW X4 M40I G02,124990,BMW,X4,M40I,G02,2020,20908,Coupe,Automatic,Unleaded Petrol, Used,2998,White,5
+12814472,2018 Toyota Landcruiser GXL (4X4) VDJ200R MY16,95990,Toyota,Landcruiser,GXL (4X4),VDJ200R MY16,2018,149520,Wagon,Automatic,Diesel, Used,4461,White,7
+12814515,2020 Toyota Landcruiser LC200 GXL (4X4) VDJ200R,109988,Toyota,Landcruiser,LC200 GXL (4X4),VDJ200R,2020,30862,Wagon,Automatic,Diesel, Used,4461,White,8
+12814750,2020 Mercedes-Benz GLA45 S 4Matic+ H247 MY21,94800,Mercedes-Benz,GLA45,S 4Matic+,H247 MY21,2020,41690,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,White,5
+12814761,2017 Toyota Landcruiser GXL (4X4) VDJ79R,94990,Toyota,Landcruiser,GXL (4X4),VDJ79R,2017,79187,Cab Chassis,Manual,Diesel, Used,4461,White,2
+12814822,2022 Toyota Landcruiser Prado VX GDJ150R,94990,Toyota,Landcruiser Prado,VX,GDJ150R,2022,18,Wagon,Automatic,Diesel, Used,2755,Grey,7
+12814878,2022 Ram 1500 Laramie (hybrid) DT MY22,132000,Ram,1500,Laramie (hybrid),DT MY22,2022,24000,Crew Cab Utility,Automatic,Premium Unleaded/Electric, Used,5654,Charcoal,5
+12814932,2016 Porsche 718 Boxster S 982 MY17,124990,Porsche,718,Boxster S,982 MY17,2016,61424,Roadster,Automatic,Unleaded Petrol, Used,2497,White,2
+12815738,2021 Mercedes-Benz GLB35 4Matic X247 MY22,104988,Mercedes-Benz,GLB35,4Matic,X247 MY22,2021,5197,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,White,7
+12815953,2022 Volkswagen Amarok TDI580 W580X 4Motion 2H MY22,104990,Volkswagen,Amarok,TDI580 W580X 4Motion,2H MY22,2022,22,Dual Cab Utility,Automatic,Diesel, Demo,2967,Grey,5
+12816125,2017 Toyota Landcruiser VX (4X4) VDJ200R MY16,105888,Toyota,Landcruiser,VX (4X4),VDJ200R MY16,2017,76845,Wagon,Automatic,Diesel, Used,4461,Black,7
+12816280,2021 Audi RS Q3 2.5 Tfsi Quattro F3 MY22,114888,Audi,RS Q3,2.5 Tfsi Quattro,F3 MY22,2021,2603,Wagon,Automatic,Premium Unleaded Petrol, Used,2480,Red,5
+12816555,2007 Mazda 3 NEO BK MY06 Upgrade,104998,Mazda,3,NEO,BK MY06 Upgrade,2007,184320,Hatchback,Automatic,Unleaded Petrol, Used,1998,Beige,5
+12816613,2022 Mercedes-Benz V 300 D Avantgarde MWB 447 MY22,132880,Mercedes-Benz,V,300 D Avantgarde MWB,447 MY22,2022,28,Wagon,Rear,Diesel, Demo,1950,Black,7
+12816833,2017 Audi SQ7 4.0 TDI V8 Quattro 4M,99800,Audi,SQ7,4.0 TDI V8 Quattro,4M,2017,69210,Wagon,Automatic,Diesel, Used,3956,White,5
+12816871,2019 Ram 1500 Laramie (4X4) FD3.9 MY19,104990,Ram,1500,Laramie (4X4) FD3.9,MY19,2019,96662,Crew Cab Utility,Automatic,Diesel, Used,2988,Black,5
+12817295,2017 Porsche 911 Carrera 991 MY17,214900,Porsche,911,Carrera,991 MY17,2017,17272,Coupe,Automatic,Premium Unleaded Petrol, Used,2981,White,4
+12817386,2021 Chevrolet Silverado 1500 LT Trail Boss MY21,169980,Chevrolet,Silverado,1500 LT Trail Boss,MY21,2021,10974,Crew Cab Utility,Automatic,Unleaded Petrol, Used,6162,White,5
+12817616,2021 Audi S4 3.0 Tfsi Quattro 8W MY22,103888,Audi,S4,3.0 Tfsi Quattro,8W MY22,2021,10150,Sedan,Automatic,Premium Unleaded Petrol, Used,2995,Black,5
+12817625,2021 Mercedes-Benz GLE 300 D 4Matic V167 MY21.5,119888,Mercedes-Benz,GLE,300 D 4Matic,V167 MY21.5,2021,20332,Wagon,Automatic,Diesel, Used,1950,White,5
+12818160,2020 Porsche 911 Turbo S 992 MY20,579900,Porsche,911,Turbo S,992 MY20,2020,26120,Cabriolet,Automatic,Premium Unleaded Petrol, Used,3745,Grey,4
+12818892,2013 Porsche 911 Carrera S 991 MY13,189900,Porsche,911,Carrera S,991 MY13,2013,51955,Coupe,Automatic,Premium Unleaded Petrol, Used,3824,White,4
+12819305,2021 Audi A5 45 Tfsi Quattro S Line Mhev F5 MY21,96990,Audi,A5,45 Tfsi Quattro S Line Mhev,F5 MY21,2021,5120,Coupe,AWD,Premium Unleaded/Electric, Used,1984,Grey,4
+12819972,2020 BMW M440I Xdrive G22,109900,BMW,M440I,Xdrive,G22,2020,13218,Coupe,Automatic,Premium Unleaded Petrol, Used,2998,Blue,4
+12820025,2022 Toyota Landcruiser 70 Series GXL VDJ79R,118999,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,181,Double Cab Chassis,Manual,Diesel, Used,4461,Gold,5
+12820316,2022 Mercedes-Benz C300 Mhev W206 MY23,95800,Mercedes-Benz,C300,Mhev,W206 MY23,2022,3258,Sedan,Automatic,Premium Unleaded/Electric, Used,1999,Grey,5
+12820318,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,99800,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,7409,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Silver,5
+12820337,2018 Mercedes-Benz GLS350 D 4Matic X166 MY18,97990,Mercedes-Benz,GLS350,D 4Matic,X166 MY18,2018,62160,Wagon,Automatic,Diesel, Used,2987,Silver,7
+12820371,2021 Mercedes-Benz E63 S 4Matic+ W213 MY22,295888,Mercedes-Benz,E63,S 4Matic+,W213 MY22,2021,8000,Sedan,Automatic,Premium Unleaded Petrol, Used,3982,White,5
+12820596,2020 Mercedes-Benz C63 S C205 MY20.5,189000,Mercedes-Benz,C63,S,C205 MY20.5,2020,9000,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,diamond,4
+12820727,2022 Volkswagen Touareg 170TDI CR MY22,97624,Volkswagen,Touareg,170TDI,CR MY22,2022,8,Wagon,Automatic,Diesel, New In Stock,2967,Blue,5
+12820728,2022 Volkswagen Touareg 170TDI CR MY22,105299,Volkswagen,Touareg,170TDI,CR MY22,2022,11,Wagon,Automatic,Diesel, New In Stock,2967,Black,5
+12821008,2018 Toyota Landcruiser Sahara (4X4) VDJ200R MY16,119777,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY16,2018,60497,Wagon,Automatic,Diesel, Used,4461,White,7
+12821009,2017 Land Rover Range Rover Sport 5.0 V8 SC A/B Dynamic LW MY17,158888,Land Rover,Range Rover Sport,5.0 V8 SC A/B Dynamic,LW MY17,2017,67488,Wagon,Automatic,Premium Unleaded Petrol, Used,4999,White,5
+12821695,2021 Chevrolet Silverado 1500 LTZ Premium Tech Pack MY21,129999,Chevrolet,Silverado,1500 LTZ Premium Tech Pack,MY21,2021,73513,Crew Cab Utility,Automatic,Unleaded Petrol, Used,6162,Grey,5
+12822119,2016 Toyota Landcruiser Sahara (4X4) VDJ200R MY16,130000,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY16,2016,52102,Wagon,Automatic,Diesel, Used,4461,Silver,7
+12822434,2019 Porsche 911 GT3 RS 991 MY19,529990,Porsche,911,GT3 RS,991 MY19,2019,4192,Coupe,Automatic,Premium Unleaded Petrol, Used,3996,Red,4
+12822541,2022 Toyota Landcruiser LC300 VX (4X4) FJA300R,151888,Toyota,Landcruiser,LC300 VX (4X4),FJA300R,2022,1869,Wagon,Automatic,Diesel, Used,3346,Blue,7
+12822565,2022 Toyota Landcruiser LC300 GXL (4X4) FJA300R,132900,Toyota,Landcruiser,LC300 GXL (4X4),FJA300R,2022,1034,Wagon,Automatic,Diesel, Used,3346,White,7
+12823354,2018 Land Rover Range Rover Sport SDV6 HSE LW MY18,125990,Land Rover,Range Rover Sport,SDV6 HSE,LW MY18,2018,68016,Wagon,Automatic,Diesel, Used,2993,Black,5
+12823564,2022 Toyota Landcruiser 70 Series GXL VDJ79R,149990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,11454,Double Cab Chassis,Manual,Diesel, Used,4461,Grey,5
+12823572,2017 Mercedes-Benz C63 S 205 MY17.5,118990,Mercedes-Benz,C63,S,205 MY17.5,2017,41001,Sedan,Automatic,Premium Unleaded Petrol, Used,3982,White,4
+12823722,2022 BMW X7 Xdrive30D G07,156990,BMW,X7,Xdrive30D,G07,2022,6849,Wagon,Automatic,Diesel, Used,2993,Black,7
+12823806,2020 Toyota Landcruiser LC200 GXL (4X4) VDJ200R,102950,Toyota,Landcruiser,LC200 GXL (4X4),VDJ200R,2020,97277,Wagon,Automatic,Diesel, Used,4461,White,8
+12823980,2019 Mercedes-Benz GLE300 D 4Matic V167 MY19,122000,Mercedes-Benz,GLE300,D 4Matic,V167 MY19,2019,26450,Wagon,Automatic,Diesel, Used,1950,White,5
+12824426,2019 Mercedes-Benz GLS 400D 4Matic X167,155900,Mercedes-Benz,GLS,400D 4Matic,X167,2019,66860,Wagon,Automatic,Diesel, Used,2925,Black,7
+12824641,2014 Toyota Landcruiser Sahara (4X4) VDJ200R MY13,97990,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY13,2014,132006,Wagon,Automatic,Diesel, Used,4461,Grey,7
+12824644,2016 Toyota Landcruiser GXL (4X4) LC70 VDJ79R MY17,102987,Toyota,Landcruiser,GXL (4X4),LC70 VDJ79R MY17,2016,82361,Double Cab Chassis,Manual,Diesel, Used,4461,White,5
+12824766,2017 Mercedes-Benz C63 S 205 MY16,129990,Mercedes-Benz,C63,S,205 MY16,2017,45200,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,Grey,4
+12824820,2019 BMW X5 Xdrive 30D M Sport (5 Seat) G05 MY19,97800,BMW,X5,Xdrive 30D M Sport (5 Seat),G05 MY19,2019,37000,Wagon,Automatic,Diesel, Used,2993,Carbon,5
+12824905,2018 Toyota Landcruiser Sahara (4X4) VDJ200R MY16,124888,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY16,2018,110337,Wagon,Automatic,Diesel, Used,4461,Black,7
+12825482,2020 Land Rover Discovery Sport D240 HSE (177KW) L550 MY20.5,125888,Land Rover,Discovery Sport,D240 HSE (177KW),L550 MY20.5,2020,19500,Wagon,Automatic,Diesel, Used,1999,Orange,5
+12825483,2022 Audi RS Q3 2.5 Tfsi Quattro F3 MY22,128888,Audi,RS Q3,2.5 Tfsi Quattro,F3 MY22,2022,5500,Sportback,Automatic,Premium Unleaded Petrol, Used,2480,Black,5
+12825544,2013 Jaguar XKR 5.0 SC V8 X150 MY13,119990,Jaguar,XKR,5.0 SC V8,X150 MY13,2013,48226,Coupe,Automatic,Premium Unleaded Petrol, Used,5000,White,4
+12825554,2018 Bentley Bentayga V8 (7 Seat) MY19,299980,Bentley,Bentayga,V8 (7 Seat),MY19,2018,3430,Wagon,Automatic,Premium Unleaded Petrol, Used,3996,Blue,7
+12825561,2018 Lamborghini Huracan LP 610-4 724,479880,Lamborghini,Huracan,LP 610-4,724,2018,8130,Coupe,Automatic,Premium Unleaded Petrol, Used,5204,Black,2
+12825562,2005 Mercedes-Benz SL65 AMG R230,169990,Mercedes-Benz,SL65,AMG,R230,2005,162468,Convertible,Automatic,Premium Unleaded Petrol, Used,5980,Black,2
+12825574,2020 Ford Mustang R-Spec FN MY20,124990,Ford,Mustang,R-Spec,FN MY20,2020,9504,Fastback,Manual,Premium Unleaded Petrol, Used,5038,Blue,4
+12825786,2017 Toyota Landcruiser Sahara (4X4) VDJ200R MY16,117700,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY16,2017,81881,Wagon,Automatic,Diesel, Used,4461,White,7
+12825836,2021 BMW X5 M Competition F95,244900,BMW,X5,M Competition,F95,2021,3570,Wagon,Automatic,Premium Unleaded Petrol, Demo,4395,Black,5
+12826168,2021 Toyota Landcruiser 70 Series GX VDJ79R,98000,Toyota,Landcruiser 70 Series,GX,VDJ79R,2021,21,Cab Chassis,Manual,Diesel, Used,4461,Grey,2
+12826587,2019 BMW X7 Xdrive 30D G07,118800,BMW,X7,Xdrive 30D,G07,2019,51685,Wagon,Automatic,Diesel, Used,2993,Grey,7
+12826686,2020 Mercedes-Benz GLS 400D 4Matic X167 MY20.5,159888,Mercedes-Benz,GLS,400D 4Matic,X167 MY20.5,2020,36180,Wagon,Automatic,Diesel, Used,2925,White,7
+12827307,2022 Toyota Landcruiser LC300 GXL (4X4) FJA300R,129990,Toyota,Landcruiser,LC300 GXL (4X4),FJA300R,2022,1254,Wagon,Automatic,Diesel, Used,3346,White,7
+12827499,2019 Mercedes-Benz C63 S 205 MY19,159990,Mercedes-Benz,C63,S,205 MY19,2019,52367,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,White,4
+12827557,2021 Mercedes-Benz GLE 400 D 4Matic V167 MY21.5,135000,Mercedes-Benz,GLE,400 D 4Matic,V167 MY21.5,2021,23800,Wagon,Automatic,Diesel, Used,2925,white,5
+12828219,2018 BMW 440I 40I F33 MY17,109000,BMW,440I,40I,F33 MY17,2018,7620,Convertible,Automatic,Premium Unleaded Petrol, Used,2998,Estoril,4
+12828239,2020 Mercedes-Benz A45 S 4Matic W177 MY20.5,106000,Mercedes-Benz,A45,S 4Matic,W177 MY20.5,2020,15000,Hatchback,Automatic,Premium Unleaded Petrol, Used,1991,Grey,5
+12828641,2022 Volkswagen Touareg 170TDI CR MY22,105990,Volkswagen,Touareg,170TDI,CR MY22,2022,20,Wagon,Automatic,Diesel, New In Stock,2967,White,5
+12828755,2022 Audi RS Q8 Tfsi Quattro Mhev 4M MY22,264888,Audi,RS Q8,Tfsi Quattro Mhev,4M MY22,2022,1860,Wagon,Automatic,Premium Unleaded/Electric, Used,3996,Black,5
+12828764,2022 Volkswagen Touareg 170TDI CR MY22,102990,Volkswagen,Touareg,170TDI,CR MY22,2022,20,Wagon,Automatic,Diesel, New In Stock,2967,Black,5
+12828792,2022 Lexus NX350 F Sport + EP1 AWD Taza25R,99900,Lexus,NX350,F Sport + EP1 AWD,Taza25R,2022,5846,Wagon,Automatic,Premium Unleaded Petrol, Used,2393,Black,5
+12828990,2022 Toyota Hilux Rugged X (4X4) GUN126R,94888,Toyota,Hilux,Rugged X (4X4),GUN126R,2022,7635,Double Cab Pick Up,Automatic,Diesel, Used,2753,Black,5
+12829046,2019 Audi Q8 55 Tfsi Quattro (hybrid) 4M MY19,116888,Audi,Q8,55 Tfsi Quattro (hybrid),4M MY19,2019,47800,Wagon,Automatic,Premium Unleaded/Electric, Used,2995,Grey,5
+12829054,2016 Land Rover Range Rover Vogue SDV8 LG MY16,99990,Land Rover,Range Rover,Vogue SDV8,LG MY16,2016,125451,Wagon,Automatic,Diesel, Used,4367,Black,5
+12829102,2022 Volkswagen Touareg 210TDI R-Line CR MY22,135444,Volkswagen,Touareg,210TDI R-Line,CR MY22,2022,20,Wagon,Automatic,Diesel, New In Stock,2967,Silver,5
+12829138,2017 Mercedes-Benz C63 S 205 MY16,114800,Mercedes-Benz,C63,S,205 MY16,2017,69150,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,White,4
+12829315,2019 Land Rover Range Rover Velar P300 R-Dynamic SE (221KW) L560 MY20,108990,Land Rover,Range Rover Velar,P300 R-Dynamic SE (221KW),L560 MY20,2019,54658,Wagon,Automatic,Premium Unleaded Petrol, Used,1997,Grey,5
+12829743,2015 BMW I8 Hybrid I12,179990,BMW,I8,Hybrid,I12,2015,18904,Coupe,Automatic,Premium Unleaded/Electric, Used,1499,White,4
+12829867,2017 HSV Senator Signature GEN F2,132490,HSV,Senator,Signature,GEN F2,2017,45433,Sedan,Automatic,Premium Unleaded Petrol, Used,6200,White,5
+12830363,2019 Volkswagen Touareg Launch Edition MY20,94990,Volkswagen,Touareg,Launch Edition,MY20,2019,32465,Wagon,Automatic,Diesel, Used,2967,Blue,5
+12830504,2021 BMW X5 Xdrive30D G05,133333,BMW,X5,Xdrive30D,G05,2021,27000,Wagon,Automatic,Diesel, Used,2993,Blue,5
+12830758,2016 HSV Clubsport R8 LSA GEN F2,97990,HSV,Clubsport,R8 LSA,GEN F2,2016,64518,Sedan,Automatic,Premium Unleaded Petrol, Used,6200,Silver,5
+12830804,2018 Mercedes-Benz GLC63 S 253 MY19,129800,Mercedes-Benz,GLC63,S,253 MY19,2018,63396,Wagon,Automatic,Premium Unleaded Petrol, Used,3982,White,5
+12830829,2021 Toyota Landcruiser LC300 GXL (4X4) FJA300R,123990,Toyota,Landcruiser,LC300 GXL (4X4),FJA300R,2021,22071,Wagon,Automatic,Diesel, Used,3346,White,7
+12830875,2022 Volkswagen California TDI340 California Beach T6.1 MY22,109887,Volkswagen,California,TDI340 California Beach,T6.1 MY22,2022,17,Wagon,Automatic,Diesel, Demo,1968,White,7
+12831048,2021 Lexus LX570 S URJ201R,173880,Lexus,LX570,S,URJ201R,2021,46532,Wagon,Automatic,Premium Unleaded Petrol, Used,5663,White,8
+12831052,2022 BMW 430I M Sport G22,112888,BMW,430I,M Sport,G22,2022,586,Coupe,Automatic,Premium Unleaded Petrol, Demo,1998,Blue,4
+12831379,2018 Toyota Landcruiser Sahara (4X4) VDJ200R MY16,119888,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY16,2018,112040,Wagon,Automatic,Diesel, Used,4461,Black,7
+12831497,2007 Porsche 911 Carrera S 997,139990,Porsche,911,Carrera S,997,2007,62682,Coupe,Automatic,Premium Unleaded Petrol, Used,3824,Grey,4
+12831504,2021 BMW M340I Xdrive G20,100670,BMW,M340I,Xdrive,G20,2021,8062,Sedan,Automatic,Premium Unleaded Petrol, Used,2998,White,5
+12831610,2021 Land Rover Discovery D300 SE (221KW) L462 MY21,138900,Land Rover,Discovery,D300 SE (221KW),L462 MY21,2021,22274,Wagon,Automatic,Diesel, Used,2996,White,7
+12831776,2017 Toyota Landcruiser LC200 Altitude Special Edition VDJ200R MY17,107500,Toyota,Landcruiser,LC200 Altitude Special Edition,VDJ200R MY17,2017,66400,Wagon,Automatic,Diesel, Used,4461,Onyx,7
+12831806,2022 Volkswagen Touareg 210TDI R-Line CR MY22,139888,Volkswagen,Touareg,210TDI R-Line,CR MY22,2022,15,Wagon,Automatic,Diesel, New In Stock,2967,Grey,5
+12831809,2022 Volkswagen Touareg 210TDI Elegance CR MY22,126878,Volkswagen,Touareg,210TDI Elegance,CR MY22,2022,15,Wagon,Automatic,Diesel, New In Stock,2967,White,5
+12831810,2022 Volkswagen Touareg 170TDI CR MY22,104378,Volkswagen,Touareg,170TDI,CR MY22,2022,15,Wagon,Automatic,Diesel, New In Stock,2967,White,5
+12832051,2018 Mercedes-Benz GLE43 4Matic 292 MY17.5,101000,Mercedes-Benz,GLE43,4Matic,292 MY17.5,2018,80937,Coupe,Automatic,Premium Unleaded Petrol, Used,2996,Black,5
+12832231,2017 Mercedes-Benz GLC63 S 253 MY18,122500,Mercedes-Benz,GLC63,S,253 MY18,2017,54900,Wagon,Automatic,Premium Unleaded Petrol, Used,3982,Diamond,5
+12832483,2022 Mercedes-Benz GLC43 4Matic X253 MY22,123868,Mercedes-Benz,GLC43,4Matic,X253 MY22,2022,7638,Wagon,Automatic,Premium Unleaded Petrol, Used,2996,White,5
+12832693,2022 Jeep Gladiator Rubicon (4X4) JT MY22,94888,Jeep,Gladiator,Rubicon (4X4),JT MY22,2022,2655,Dual Cab Utility,Automatic,Unleaded Petrol, Demo,3604,Black,5
+12832711,2018 Toyota Landcruiser LC200 VX (4X4) VDJ200R,123987,Toyota,Landcruiser,LC200 VX (4X4),VDJ200R,2018,90729,Wagon,Automatic,Diesel, Used,4461,White,7
+12832895,2020 BMW M8 Competition F92,268000,BMW,M8,Competition,F92,2020,19495,Coupe,Automatic,Premium Unleaded Petrol, Used,4395,Blue,4
+12833111,2019 Mercedes-Benz GLE300 D 4Matic V167 MY19,124800,Mercedes-Benz,GLE300,D 4Matic,V167 MY19,2019,33485,Wagon,Automatic,Diesel, Used,1950,White,5
+12833115,2020 Mercedes-Benz A45 S 4Matic W177 MY20.5,104800,Mercedes-Benz,A45,S 4Matic,W177 MY20.5,2020,13257,Hatchback,Automatic,Premium Unleaded Petrol, Used,1991,White,5
+12833176,2021 Volkswagen Amarok TDI580 Highline 4Motion 2H MY21,119990,Volkswagen,Amarok,TDI580 Highline 4Motion,2H MY21,2021,8927,Dual Cab Utility,Automatic,Diesel, Used,2967,Blue,5
+12833188,2021 BMW X4 Xdrive30I M Sport G02 LCI,94888,BMW,X4,Xdrive30I M Sport,G02 LCI,2021,26643,Coupe,Automatic,Premium Unleaded Petrol, Used,1998,White,5
+12833192,2022 BMW 8 M850I Xdrive G15 LCI,299888,BMW,8,M850I Xdrive,G15 LCI,2022,1056,Coupe,Automatic,Premium Unleaded Petrol, Demo,4395,Blue,4
+12833228,2007 Bentley Continental GTC 3W,124990,Bentley,Continental,GTC,3W,2007,75643,Convertible,Automatic,Premium Unleaded Petrol, Used,5998,Blue,4
+12833391,2022 Volkswagen Touareg 210TDI Elegance CR MY22,114890,Volkswagen,Touareg,210TDI Elegance,CR MY22,2022,4970,Wagon,Automatic,Diesel, Demo,2967,White,5
+12833432,2020 Toyota Landcruiser LC200 Sahara (4X4) VDJ200R,129990,Toyota,Landcruiser,LC200 Sahara (4X4),VDJ200R,2020,51166,Wagon,Automatic,Diesel, Used,4461,Black,7
+12833562,2021 BMW X5 Xdrive30D G05,108888,BMW,X5,Xdrive30D,G05,2021,25923,Wagon,Automatic,Diesel, Used,2993,Black,5
+12833805,2018 Toyota Landcruiser GXL (4X4) VDJ200R MY16,110000,Toyota,Landcruiser,GXL (4X4),VDJ200R MY16,2018,95259,Wagon,Automatic,Diesel, Used,4461,White,7
+12834060,2022 Toyota Landcruiser 70 Series GXL VDJ79R,119490,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,1410,Double Cab Chassis,Manual,Diesel, Used,4461,White,5
+12834063,2022 Toyota Landcruiser LC300 VX (4X4) FJA300R,136890,Toyota,Landcruiser,LC300 VX (4X4),FJA300R,2022,16,Wagon,Automatic,Diesel, Used,3346,White,7
+12834153,2022 Toyota Landcruiser LC300 VX (4X4) FJA300R,133888,Toyota,Landcruiser,LC300 VX (4X4),FJA300R,2022,25,Wagon,Automatic,Diesel, Used,3346,Grey,7
+12834714,2022 Toyota Landcruiser LC300 Sahara (4X4) FJA300R,155500,Toyota,Landcruiser,LC300 Sahara (4X4),FJA300R,2022,44,Wagon,Automatic,Diesel, Used,3346,CRYSTAL,7
+12834749,2018 Toyota Landcruiser Sahara (4X4) VDJ200R MY16,129990,Toyota,Landcruiser,Sahara (4X4),VDJ200R MY16,2018,82511,Wagon,Automatic,Diesel, Used,4461,Black,7
+12834754,2022 Toyota Landcruiser 70 Series GXL VDJ79R,127990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,1894,Double Cab Chassis,Manual,Diesel, Used,4461,Silver,5
+12834760,2020 Toyota Landcruiser LC200 VX (4X4) VDJ200R,124990,Toyota,Landcruiser,LC200 VX (4X4),VDJ200R,2020,69491,Wagon,Automatic,Diesel, Used,4461,Silver,7
+12834802,2015 Mercedes-Benz C63 AMG S Edition 1 205,110000,Mercedes-Benz,C63,AMG S Edition 1,205,2015,55236,Sedan,Automatic,Premium Unleaded Petrol, Used,3982,White,5
+12834863,2018 Lexus LS500 Sports Luxury Vxfa50R,129888,Lexus,LS500,Sports Luxury,Vxfa50R,2018,28922,Sedan,Automatic,Premium Unleaded Petrol, Used,3444,Black,5
+12834864,2022 BMW X3 M Competition F97,159888,BMW,X3,M Competition,F97,2022,2345,Wagon,Automatic,Premium Unleaded Petrol, Used,2993,Black,5
+12835387,2002 Porsche 911 Carrera 996,99990,Porsche,911,Carrera,996,2002,90445,Coupe,Automatic,Premium Unleaded Petrol, Used,3596,Silver,4
+12835659,2010 Porsche 911 Carrera 997 MY10,144900,Porsche,911,Carrera,997 MY10,2010,58239,Coupe,Automatic,Premium Unleaded Petrol, Used,3614,Grey,4
+12835693,2020 Toyota Landcruiser GXL (4X4) VDJ79R,127999,Toyota,Landcruiser,GXL (4X4),VDJ79R,2020,26785,Double Cab Chassis,Manual,Diesel, Used,4461,White,5
+12835723,2019 Toyota Landcruiser GXL (4X4) VDJ76R,108990,Toyota,Landcruiser,GXL (4X4),VDJ76R,2019,38970,Wagon,Manual,Diesel, Used,4461,Blue,7
+12835845,2021 Mercedes-Benz GLC63 S 4Matic+ X253 MY22,177990,Mercedes-Benz,GLC63,S 4Matic+,X253 MY22,2021,5871,Wagon,Automatic,Premium Unleaded Petrol, Used,3982,Grey,5
+12835869,2021 Mercedes-Benz S450 4Matic (hybrid) W223 MY21,209990,Mercedes-Benz,S450,4Matic (hybrid),W223 MY21,2021,16632,Saloon,Automatic,Premium Unleaded/Electric, Used,2999,White,5
+12835999,2018 Maserati Granturismo Sport M140 MY18,174888,Maserati,Granturismo,Sport,M140 MY18,2018,22966,Coupe,Automatic,Premium Unleaded Petrol, Used,4691,Black,4
+12836274,2014 Toyota Landcruiser GXL (4X4) VDJ79R MY12 Update,98990,Toyota,Landcruiser,GXL (4X4),VDJ79R MY12 Update,2014,89899,Double Cab Chassis,Manual,Diesel, Used,4461,Grey,5
+12836420,2018 Audi SQ7 4.0 TDI V8 Quattro 4M MY18,104990,Audi,SQ7,4.0 TDI V8 Quattro,4M MY18,2018,53620,Wagon,Automatic,Diesel, Used,3956,Black,5
+12836513,2022 Toyota Landcruiser Prado Kakadu GDJ150R,104888,Toyota,Landcruiser Prado,Kakadu,GDJ150R,2022,22,Wagon,Automatic,Diesel, Used,2755,Black,7
+12836590,2019 Mercedes-Benz GLE300 D 4Matic V167 MY19,119800,Mercedes-Benz,GLE300,D 4Matic,V167 MY19,2019,51799,Wagon,Automatic,Diesel, Used,1950,Grey,5
+12836628,2018 BMW X5 Xdrive 30D Xline (5 Seat) G05 MY19,98900,BMW,X5,Xdrive 30D Xline (5 Seat),G05 MY19,2018,44119,Wagon,Automatic,Diesel, Used,2993,Black,5
+12837209,2019 Ram 1500 Laramie (4X4) FD3.2 MY19,97990,Ram,1500,Laramie (4X4) FD3.2,MY19,2019,111400,Crew Cab Utility,Automatic,Unleaded Petrol, Used,5654,Silver,5
+12837344,2022 Mercedes-Benz GLE 300 D 4Matic V167 MY22,125850,Mercedes-Benz,GLE,300 D 4Matic,V167 MY22,2022,4892,Wagon,Automatic,Diesel, Used,1950,Blue,5
+12837368,2022 Mercedes-Benz GLC 300 4Matic X253 MY22,99850,Mercedes-Benz,GLC,300 4Matic,X253 MY22,2022,3459,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,Black,5
+12837372,2014 Mercedes-Benz S500 L 222,110850,Mercedes-Benz,S500,L,222,2014,61563,Sedan,Automatic,Premium Unleaded Petrol, Used,4663,Silver,5
+12837394,2022 BMW X7 Xdrive30D G07,159990,BMW,X7,Xdrive30D,G07,2022,4566,Wagon,Automatic,Diesel, Used,2993,Black,7
+12837536,2022 Porsche Cayenne GTS 9YA MY22,239900,Porsche,Cayenne,GTS,9YA MY22,2022,9978,Wagon,Automatic,Premium Unleaded Petrol, Used,3996,Grey,5
+12838120,2022 BMW X6 Xdrive30D M Sport G06,137900,BMW,X6,Xdrive30D M Sport,G06,2022,9500,Coupe,Automatic,Diesel, Used,2993,White,5
+12838162,2022 Toyota Landcruiser LC300 GXL (4X4) FJA300R,114990,Toyota,Landcruiser,LC300 GXL (4X4),FJA300R,2022,7621,Wagon,Automatic,Diesel, Used,3346,Grey,7
+12838272,2022 Toyota Landcruiser Prado Kakadu GDJ150R,99900,Toyota,Landcruiser Prado,Kakadu,GDJ150R,2022,11890,Wagon,Automatic,Diesel, Used,2755,White,7
+12838496,2016 Toyota Landcruiser VX (4X4) VDJ200R MY16,94888,Toyota,Landcruiser,VX (4X4),VDJ200R MY16,2016,142774,Wagon,Automatic,Diesel, Used,4461,White,7
+12838555,2018 Ford Mustang Fastback GT 5.0 V8 FN,119990,Ford,Mustang,Fastback GT 5.0 V8,FN,2018,34592,Coupe,Manual,Premium Unleaded Petrol, Used,4950,Grey,4
+12838700,2022 BMW 420I M Sport Gran Coupe G26,94888,BMW,420I,M Sport Gran Coupe,G26,2022,1665,Coupe,Automatic,Premium Unleaded Petrol, Demo,1998,Blue,5
+12838846,2019 Mercedes-Benz GLE300 D 4Matic V167 MY19,119800,Mercedes-Benz,GLE300,D 4Matic,V167 MY19,2019,50502,Wagon,Automatic,Diesel, Used,1950,White,5
+12838877,2022 Toyota Landcruiser LC300 VX (4X4) FJA300R,137990,Toyota,Landcruiser,LC300 VX (4X4),FJA300R,2022,11030,Wagon,Automatic,Diesel, Used,3346,White,7
+12838879,2022 BMW 3 M340I Xdrive G20 LCI,126900,BMW,3,M340I Xdrive,G20 LCI,2022,1561,Sedan,Automatic,Premium Unleaded Petrol, Demo,2998,Black,5
+12838953,2020 Toyota Landcruiser LC200 GXL (4X4) VDJ200R,114990,Toyota,Landcruiser,LC200 GXL (4X4),VDJ200R,2020,41630,Wagon,Automatic,Diesel, Used,4461,White,8
+12839154,2008 Porsche 911 Turbo 997,219000,Porsche,911,Turbo,997,2008,60165,Cabriolet,Automatic,Premium Unleaded Petrol, Used,3600,Grey,4
+12839455,2020 Toyota Landcruiser 70 Series GXL VDJ79R,114850,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2020,45518,Cab Chassis,Manual,Diesel, Used,4461,White,2
+12839890,2017 Porsche 718 Cayman S 982 MY17,144990,Porsche,718,Cayman S,982 MY17,2017,24801,Coupe,Automatic,Premium Unleaded Petrol, Used,2497,Grey,2
+12839891,2021 Mercedes-Benz GLC63 S 4Matic+ X253 MY22,179830,Mercedes-Benz,GLC63,S 4Matic+,X253 MY22,2021,6735,Wagon,Automatic,Premium Unleaded Petrol, Used,3982,White,5
+12839998,2021 Nissan Patrol TI-L (4X4) Y62 Series 5 MY21,104888,Nissan,Patrol,TI-L (4X4),Y62 Series 5 MY21,2021,11653,Wagon,Automatic,Premium Unleaded Petrol, Used,5552,Silver,7
+12840706,2022 BMW X5 Xdrive30D G05,134888,BMW,X5,Xdrive30D,G05,2022,1708,Wagon,Automatic,Diesel, Demo,2993,Black,5
+12840740,2022 BMW 5 M550I Xdrive LCI G30,169888,BMW,5,M550I Xdrive LCI,G30,2022,966,Sedan,Automatic,Premium Unleaded Petrol, Demo,4395,Blue,5
+12841042,2019 Porsche Panamera GTS 97A MY20,254888,Porsche,Panamera,GTS,97A MY20,2019,31247,Coupe,Automatic,Premium Unleaded Petrol, Used,3996,Black,4
+12841066,2019 Mercedes-Benz GLE450 4Matic V167 MY19,124800,Mercedes-Benz,GLE450,4Matic,V167 MY19,2019,59050,Wagon,Automatic,Premium Unleaded/Electric, Used,2999,Black,5
+12841125,2019 BMW X5 M50D (5 Seat) G05 MY19,123888,BMW,X5,M50D (5 Seat),G05 MY19,2019,33231,Wagon,Automatic,Diesel, Used,2993,Grey,5
+12841501,2016 Land Rover Range Rover Vogue SDV8 LG MY16.5,119800,Land Rover,Range Rover,Vogue SDV8,LG MY16.5,2016,62677,Wagon,Automatic,Diesel, Used,4367,Black,5
+12841628,2020 Volvo XC90 T6 R-Design (awd) 256 MY20,112990,Volvo,XC90,T6 R-Design (awd),256 MY20,2020,17986,Wagon,Automatic,Premium Unleaded Petrol, Used,1969,Grey,7
+12841763,2022 Volvo XC60 B6 R-Design Mhev 246 MY22,94990,Volvo,XC60,B6 R-Design Mhev,246 MY22,2022,2807,Wagon,Automatic,Premium Unleaded/Electric, Used,1969,Grey,5
+12841778,2022 Porsche Macan GTS 95B MY22,186990,Porsche,Macan,GTS,95B MY22,2022,10254,Wagon,Automatic,Premium Unleaded Petrol, Used,2894,Black,5
+12841822,2019 Mercedes-Benz GLE350 D 4Matic 292 MY18,99990,Mercedes-Benz,GLE350,D 4Matic,292 MY18,2019,35943,Coupe,Automatic,Diesel, Used,2987,Grey,5
+12841866,2015 Land Rover Range Rover Sport SVR LW MY15.5,139900,Land Rover,Range Rover Sport,SVR,LW MY15.5,2015,79182,Wagon,Automatic,Premium Unleaded Petrol, Used,4999,Black,5
+12842383,2019 Mercedes-Benz GLC63 S 4Matic+ C253 MY20,179800,Mercedes-Benz,GLC63,S 4Matic+,C253 MY20,2019,25101,Coupe,Automatic,Premium Unleaded Petrol, Used,3982,Black,5
+12842521,2013 Holden Captiva 5 LTZ (4X4) CG MY13,149990,Holden,Captiva,5 LTZ (4X4),CG MY13,2013,145799,Wagon,Automatic,Diesel, Used,2231,Black,5
+12842608,2022 Mercedes-Benz GLC43 4Matic X253 MY22,129800,Mercedes-Benz,GLC43,4Matic,X253 MY22,2022,4500,Wagon,Automatic,Premium Unleaded Petrol, Used,2996,Blue,5
+12843111,2014 FPV GT F 351 FG MK2,139990,FPV,GT F,351,FG MK2,2014,49303,Sedan,Automatic,Premium Unleaded Petrol, Used,5000,Grey,5
+12843283,2022 Toyota Landcruiser 70 Series GXL VDJ79R,119990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,100,Double Cab Chassis,Manual,Diesel, Used,4461,Grey,5
+12843485,2021 Land Rover Defender 110 D300 HSE (220KW) L663 MY21,155800,Land Rover,Defender,110 D300 HSE (220KW),L663 MY21,2021,17175,Wagon,Automatic,Diesel, Used,2996,Black,5
+12843554,2019 Toyota Landcruiser LC200 VX (4X4) VDJ200R,114910,Toyota,Landcruiser,LC200 VX (4X4),VDJ200R,2019,48343,Wagon,Automatic,Diesel, Used,4461,White,7
+12844032,2022 Volkswagen Touareg 210TDI R-Line CR MY22,138990,Volkswagen,Touareg,210TDI R-Line,CR MY22,2022,20,Wagon,Automatic,Diesel, New In Stock,2967,Blue,5
+12844057,2022 Toyota Landcruiser Prado Kakadu GDJ150R,113990,Toyota,Landcruiser Prado,Kakadu,GDJ150R,2022,6056,Wagon,Automatic,Diesel, Used,2755,White,7
+12844076,2017 Land Rover Range Rover Autobiography SDV8 LG MY17,162990,Land Rover,Range Rover,Autobiography SDV8,LG MY17,2017,50134,Wagon,Automatic,Diesel, Used,4367,White,5
+12844177,2018 Land Rover Range Rover Sport SDV6 HSE LW MY18,144480,Land Rover,Range Rover Sport,SDV6 HSE,LW MY18,2018,73200,Wagon,Automatic,Diesel, Used,2993,Grey,5
+12844286,2021 Audi RS 7 4.0 Tfsi Quattro Mhev 4K MY21,245000,Audi,RS 7,4.0 Tfsi Quattro Mhev,4K MY21,2021,11000,Sportback,Automatic,Premium Unleaded/Electric, Used,3996,Blue,5
+12844346,2017 Land Rover Range Rover Sport 3.0 SDV6 HSE LW MY17,95880,Land Rover,Range Rover Sport,3.0 SDV6 HSE,LW MY17,2017,77592,Wagon,Automatic,Diesel, Used,2993,Black,5
+12844556,2022 Nissan Patrol TI (4X4) Y62 Series 5 MY22,97990,Nissan,Patrol,TI (4X4),Y62 Series 5 MY22,2022,2493,Wagon,Automatic,Premium Unleaded Petrol, Used,5552,White,8
+12844601,2017 Toyota Landcruiser GXL (4X4) VDJ79R,94880,Toyota,Landcruiser,GXL (4X4),VDJ79R,2017,147954,Double Cab Chassis,Manual,Diesel, Used,4461,White,5
+12844776,2021 Mercedes-Benz GLC 300 4Matic C253 MY21,109990,Mercedes-Benz,GLC,300 4Matic,C253 MY21,2021,3622,Coupe,Automatic,Premium Unleaded Petrol, Used,1991,Blue,5
+12844912,2018 Audi SQ7 4.0 TDI V8 Quattro 4M MY19,116880,Audi,SQ7,4.0 TDI V8 Quattro,4M MY19,2018,53001,Wagon,Automatic,Diesel, Used,3956,Grey,5
+12844922,2022 Toyota Landcruiser 70 Series GXL VDJ79R,124990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,40,Double Cab Chassis,Manual,Diesel, Used,4461,Gold,5
+12845423,2020 Mercedes-Benz GLC43 4Matic X253 MY20.5,123880,Mercedes-Benz,GLC43,4Matic,X253 MY20.5,2020,19901,Coupe,Automatic,Premium Unleaded Petrol, Used,2996,White,5
+12845447,2021 Land Rover Defender 110 D300 X-Dynamic HSE (220KW) L663 MY22,169990,Land Rover,Defender,110 D300 X-Dynamic HSE (220KW),L663 MY22,2021,32585,Wagon,Automatic,Diesel, Demo,2996,Black,5
+12845464,2020 Porsche 911 Carrera 4S 992 MY21,359850,Porsche,911,Carrera 4S,992 MY21,2020,3904,Coupe,Automatic,Premium Unleaded Petrol, Used,2981,Blue,4
+12845536,2017 Land Rover Discovery TD6 HSE MY17,94990,Land Rover,Discovery,TD6 HSE,MY17,2017,65311,Wagon,Automatic,Diesel, Used,2993,White,5
+12845580,2017 Mercedes-Benz E63 S 4Matic+ 213 MY17.5,184800,Mercedes-Benz,E63,S 4Matic+,213 MY17.5,2017,48529,Saloon,Automatic,Premium Unleaded Petrol, Used,3982,Grey,5
+12845950,2019 Ram 1500 Laramie (4X4) FD3.2 MY19,98830,Ram,1500,Laramie (4X4) FD3.2,MY19,2019,68191,Crew Cab Utility,Automatic,Unleaded Petrol, Used,5654,Black,5
+12845998,2022 Toyota Landcruiser 70 Series GXL VDJ79R,144950,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,294,Double Cab Chassis,Manual,Diesel, Used,4461,Grey,5
+12846204,2020 Land Rover Range Rover Evoque D180 SE (132KW) L551 MY20.5,94990,Land Rover,Range Rover Evoque,D180 SE (132KW),L551 MY20.5,2020,14855,Wagon,Automatic,Diesel, Used,1999,Black,5
+12846282,2022 Hyundai Palisade Highlander (7 Seat) LX2.V3 MY23,107880,Hyundai,Palisade,Highlander (7 Seat),LX2.V3 MY23,2022,10,Wagon,Automatic,Diesel, Demo,2199,Black,7
+12846394,2018 Ram 1500 Laramie (4X4) 855KG W/Ramboxes MY18,99989,Ram,1500,Laramie (4X4) 855KG W/Ramboxes,MY18,2018,36713,Crew Cab Utility,Automatic,Unleaded Petrol, Used,5654,White,5
+12846409,2020 Toyota Landcruiser LC200 VX (4X4) VDJ200R,114610,Toyota,Landcruiser,LC200 VX (4X4),VDJ200R,2020,93258,Wagon,Automatic,Diesel, Used,4461,Grey,7
+12846410,2020 BMW X3 M Competition Xdrive F97,123888,BMW,X3,M Competition Xdrive,F97,2020,7600,Wagon,Automatic,Premium Unleaded Petrol, Used,2993,Grey,5
+12846419,2020 Porsche 911 Carrera S 992 MY20,324900,Porsche,911,Carrera S,992 MY20,2020,14300,Coupe,Automatic,Premium Unleaded Petrol, Used,2981,Blue,4
+12846435,2022 Toyota Landcruiser Prado Kakadu GDJ150R,99900,Toyota,Landcruiser Prado,Kakadu,GDJ150R,2022,11500,Wagon,Automatic,Diesel, Used,2755,Grey,7
+12846437,2019 Mercedes-Benz C63 S W205 MY20,169800,Mercedes-Benz,C63,S,W205 MY20,2019,21647,Sedan,Automatic,Premium Unleaded Petrol, Used,3982,Black,5
+12846508,2013 HSV Clubsport R8 GEN F,100000,HSV,Clubsport,R8,GEN F,2013,144121,Sedan,Automatic,Premium Unleaded Petrol, Used,6200,Gunmetal,5
+12846540,2020 Mercedes-Benz GLB35 4Matic X247 MY21,102880,Mercedes-Benz,GLB35,4Matic,X247 MY21,2020,9406,Wagon,Automatic,Premium Unleaded Petrol, Used,1991,White,7
+12846551,2021 Land Rover Range Rover Sport DI6 SE (183KW) L494 MY21.5,162690,Land Rover,Range Rover Sport,DI6 SE (183KW),L494 MY21.5,2021,22138,Wagon,Automatic,Diesel/Electric, Used,2997,Grey,5
+12847027,2020 Ram 1500 Laramie (4X4) With Rambox MY20,121990,Ram,1500,Laramie (4X4) With Rambox,MY20,2020,11806,Crew Cab Utility,Automatic,Unleaded Petrol, Used,5654,Silver,5
+12847060,2022 Toyota Landcruiser 70 Series GXL VDJ79R,107990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,11231,Cab Chassis,Manual,Diesel, Used,4461,White,2
+12847062,2022 Toyota Landcruiser LC300 GXL (4X4) FJA300R,125990,Toyota,Landcruiser,LC300 GXL (4X4),FJA300R,2022,19,Wagon,Automatic,Diesel, Used,3346,White,7
+12847065,2019 Toyota Landcruiser LC200 Sahara (4X4) VDJ200R,132888,Toyota,Landcruiser,LC200 Sahara (4X4),VDJ200R,2019,43545,Wagon,Automatic,Diesel, Used,4461,Silver,7
+12847066,2022 Toyota Landcruiser 70 Series GXL VDJ79R,129990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,8,Double Cab Chassis,Manual,Diesel, Used,4461,Gold,5
+12847070,2022 Toyota Landcruiser 70 Series GXL VDJ79R,127990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,18,Double Cab Chassis,Manual,Diesel, Used,4461,Gold,5
+12847072,2022 Toyota Landcruiser LC300 VX (4X4) FJA300R,136990,Toyota,Landcruiser,LC300 VX (4X4),FJA300R,2022,5,Wagon,Automatic,Diesel, Used,3346,White,7
+12847074,2022 Toyota Landcruiser 70 Series GXL VDJ79R,109990,Toyota,Landcruiser 70 Series,GXL,VDJ79R,2022,18,Cab Chassis,Manual,Diesel, Used,4461,White,2
+12847171,2020 Toyota Landcruiser 70 Series GXL VDJ76R,96490,Toyota,Landcruiser 70 Series,GXL,VDJ76R,2020,32900,Wagon,Manual,Diesel, Used,4461,White,5
+12847172,2020 Toyota Landcruiser 70 Series GXL VDJ76R,99990,Toyota,Landcruiser 70 Series,GXL,VDJ76R,2020,34750,Wagon,Manual,Diesel, Used,4461,White,5
+12847173,2020 Toyota Landcruiser 70 Series GXL VDJ76R,99990,Toyota,Landcruiser 70 Series,GXL,VDJ76R,2020,35350,Wagon,Manual,Diesel, Used,4461,White,5
+12847516,2017 Toyota Landcruiser GXL (4X4) VDJ200R MY16,107500,Toyota,Landcruiser,GXL (4X4),VDJ200R MY16,2017,66200,Wagon,Automatic,Diesel, Used,4461,Onxy,7
+12847785,2022 Toyota Landcruiser Prado Kakadu GDJ150R,106888,Toyota,Landcruiser Prado,Kakadu,GDJ150R,2022,9198,Wagon,Automatic,Diesel, Used,2755,Grey,7
+12848001,2018 Land Rover Range Rover Sport V8 SC HSE Dynamic LW MY18,179990,Land Rover,Range Rover Sport,V8 SC HSE Dynamic,LW MY18,2018,64619,Wagon,Automatic,Premium Unleaded Petrol, Used,4999,Grey,5
+12848324,2018 Land Rover Range Rover Autobiography SDV8 LG MY18,155000,Land Rover,Range Rover,Autobiography SDV8,LG MY18,2018,108674,Wagon,Automatic,Diesel, Used,4367,Black,5
+12848330,2018 Land Rover Range Rover Sport SDV6 SE (183KW) LW MY19,119900,Land Rover,Range Rover Sport,SDV6 SE (183KW),LW MY19,2018,77543,Wagon,Automatic,Diesel, Used,2993,Black,5
+12848579,2022 Lexus LX600 F Sport VJA310R,265980,Lexus,LX600,F Sport,VJA310R,2022,8902,Wagon,Automatic,Premium Unleaded Petrol, Used,3445,Black,5
+12848695,2006 Porsche 911 Carrera S 997,144900,Porsche,911,Carrera S,997,2006,45605,Coupe,Manual,Premium Unleaded Petrol, Used,3824,Grey,4
+12848817,2018 Audi A7 Spback 55 Tfsi Quattro(hybrid) 4K MY19,102990,Audi,A7,Spback 55 Tfsi Quattro(hybrid),4K MY19,2018,27096,Sportback,Automatic,Premium Unleaded/Electric, Used,2995,Silver,5
+12848894,2017 Toyota Landcruiser VX (4X4) VDJ200R MY16,94800,Toyota,Landcruiser,VX (4X4),VDJ200R MY16,2017,141291,Wagon,Automatic,Diesel, Used,4461,Grey,7
+12849227,2020 Land Rover Range Rover Sport SDV6 SE (183KW) L494 MY20.5,128800,Land Rover,Range Rover Sport,SDV6 SE (183KW),L494 MY20.5,2020,80675,Wagon,Automatic,Diesel, Used,2993,White,5
+12849631,2021 Mercedes-Benz GLS 450 4Matic (hybrid) X167 MY21.5,165990,Mercedes-Benz,GLS,450 4Matic (hybrid),X167 MY21.5,2021,37686,Wagon,Automatic,Premium Unleaded/Electric, Used,2999,Silver,7
+12850171,2021 Land Rover Defender 110 P300 S (221KW) L663 MY21,127000,Land Rover,Defender,110 P300 S (221KW),L663 MY21,2021,28885,Wagon,Automatic,Premium Unleaded Petrol, Used,1997,Grey,5
+12850488,2021 Porsche Macan GTS 95B MY21,149990,Porsche,Macan,GTS,95B MY21,2021,9688,Wagon,Automatic,Premium Unleaded Petrol, Used,2894,Grey,5
+12850963,2016 Toyota Landcruiser GXL (4X4) LC70 VDJ79R MY17,104999,Toyota,Landcruiser,GXL (4X4),LC70 VDJ79R MY17,2016,71000,Double Cab Chassis,Manual,Diesel, Used,4461,Silver,5
+12851060,2021 Mercedes-Benz GLS63 4Matic (hybrid) X167 MY21.5,279800,Mercedes-Benz,GLS63,4Matic (hybrid),X167 MY21.5,2021,23500,Wagon,Automatic,Premium Unleaded/Electric, Used,3982,Black,7
+12851106,2022 BMW 3 M340I Xdrive G20,104990,BMW,3,M340I Xdrive,G20,2022,7100,Sedan,Automatic,Premium Unleaded Petrol, Used,2998,Grey,5
+12851249,2018 Mercedes-Benz CLS450 4Matic 257,108888,Mercedes-Benz,CLS450,4Matic,257,2018,34391,Coupe,Automatic,Premium Unleaded Petrol, Used,2982,Grey,5
+12851250,2022 Toyota Landcruiser LC300 Sahara (4X4) FJA300R,159888,Toyota,Landcruiser,LC300 Sahara (4X4),FJA300R,2022,20,Wagon,Automatic,Diesel, Used,3346,Black,7
+12851435,2020 Mercedes-Benz A45 S 4Matic+ W177 MY21,99800,Mercedes-Benz,A45,S 4Matic+,W177 MY21,2020,13802,Hatchback,Automatic,Premium Unleaded Petrol, Used,1991,White,5
+12851768,2021 BMW X6 M Competition F96,210800,BMW,X6,M Competition,F96,2021,18500,Wagon,Automatic,Premium Unleaded Petrol, Used,4395,Blue,5
+12851861,2017 Land Rover Discovery TD6 SE MY17,105000,Land Rover,Discovery,TD6 SE,MY17,2017,36000,Wagon,Automatic,Diesel, Used,2993,Orange,5
+12851882,2022 Volkswagen Touareg 210TDI R-Line CR MY22,139888,Volkswagen,Touareg,210TDI R-Line,CR MY22,2022,15,Wagon,Automatic,Diesel, New In Stock,2967,Grey,5
