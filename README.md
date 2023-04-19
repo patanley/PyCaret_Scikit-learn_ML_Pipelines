@@ -6,21 +6,21 @@ The scope of this project encompasses the entire machine learning pipeline, incl
 <div align="center"><a href="https://github.com/patanley/PyCaret_Scikit-learn_ML_Pipelines/blob/main/Images/ML1.png"><img src="https://github.com/patanley/PyCaret_Scikit-learn_ML_Pipelines/blob/main/Images/ML1.png" alt="IoT-to-Cloud (Nebula) network" style="width:70%;height:70%"/></a></div>
 
 
-## Introduction
+## 🎯 Introduction
 The objective of this project is to develop a predictive model that can accurately forecast the selling price of cars on the Australian Automobile Market.
 
 `Steps: create_model(), tune_model(), compare_models(), plot_model(), evaluate_model(), predict_model()`
 
 
 
-## Data
+## 🎯 Data
 Data was source from the kaggle. Below is the kaggle source and the original source of the data
-
 
 Access Data through [Original source](https://www.autotrader.com.au/for-sale), 
 [Kaggle source](https://www.kaggle.com/datasets/nguyenthicamlai/cars-sold-in-australia)
 
-## Libraries & platform
+
+## 🎯 Libraries & platform
 
 <p align="left"> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> </a> 
@@ -35,13 +35,13 @@ Access Data through [Original source](https://www.autotrader.com.au/for-sale),
 
 
 
-## Notebooks
+## 🎯 Notebooks
 
-Car Price Prediction with PyCaret3 [GitHub](https://github.com/patanley/PyCaret_Scikit-learn_ML_Pipelines/blob/main/Car%20Price%20Prediction%20with%20PyCaret3.ipynb)
+> Car Price Prediction with PyCaret3 [GitHub](https://github.com/patanley/PyCaret_Scikit-learn_ML_Pipelines/blob/main/Car%20Price%20Prediction%20with%20PyCaret3.ipynb)
 
-Prediction with Scikit-Learn [GitHub](https://github.com/patanley/PyCaret_Scikit-learn_ML_Pipelines/blob/main/Prediction%20with%20Scikit-Learn.ipynb)
+> Prediction with Scikit-Learn [GitHub](https://github.com/patanley/PyCaret_Scikit-learn_ML_Pipelines/blob/main/Prediction%20with%20Scikit-Learn.ipynb)
 
-Access Data through [Google colab](https://colab.research.google.com/drive/1bjh0T_9ux-hA6zQBctaR5ycPlf5_yy1y#scrollTo=ffb2029b)
+> Access Data through [Google colab](https://colab.research.google.com/drive/1bjh0T_9ux-hA6zQBctaR5ycPlf5_yy1y#scrollTo=ffb2029b)
 
 
 ```# Import Libraries
